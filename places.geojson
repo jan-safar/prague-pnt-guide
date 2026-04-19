@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4207, 50.0870] },
+      "properties": {
+        "name": "Mama Shelter Prague (Meeting Venue)",
+        "theme": "RTCM SC 104 & SC 134 meetings, 19–21 May 2026",
+        "description": "Veletržní 1502/20, Prague 7 – Holešovice. Your meeting venue, in the same neighbourhood as EUSPA.",
+        "guide_section": "Introduction",
+        "visit_type": "venue",
+        "marker-symbol": "lodging",
+        "marker-color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.434627554422777, 50.09802053116766] },
+      "properties": {
+        "name": "EUSPA – EU Agency for the Space Programme",
+        "theme": "Galileo, EGNOS, Copernicus — modern GNSS operations",
+        "description": "Janovského 438/2, Prague 7. Manages the Galileo constellation, EGNOS, and Copernicus. ~5 min walk from the meeting venue.",
+        "guide_section": "Part 7",
+        "visit_type": "exterior only",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4252, 50.0964] },
+      "properties": {
+        "name": "National Technical Museum",
+        "theme": "Kepler instruments, Bürgi sextants, Habermel astrolabes, timekeeping",
+        "description": "Kostelní 42, Prague 7. Astronomy exhibition with 220+ instruments including Bürgi's and Habermel's originals. Transferred Kepler Museum exhibition. Tue–Sun 9–6, ~250 CZK.",
+        "guide_section": "Part 7",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4170, 50.0952] },
+      "properties": {
+        "name": "Letná Park — historic noon cannon site",
+        "theme": "Timekeeping — Prague's pre-radio noon signal (1891–1928)",
+        "description": "A cannon was fired here at noon daily in response to the Klementinum's flag signal. Panoramic views over Old Town. Beer garden under chestnut trees.",
+        "guide_section": "Introduction",
+        "visit_type": "open access",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4205, 50.0874] },
+      "properties": {
+        "name": "Prague Astronomical Clock (Orloj)",
+        "theme": "Celestial computation, timekeeping since 1410",
+        "description": "Old Town Hall, Staroměstské nám. 1. World's oldest operating astronomical clock. Designed by Jan Šindel, built by Mikuláš of Kadaň. Tower open daily from 9 AM, ~450 CZK.",
+        "guide_section": "Part 1",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4213, 50.0877] },
+      "properties": {
+        "name": "Prague Meridian",
+        "theme": "Solar time determination, reference meridian",
+        "description": "Brass strip in Old Town Square pavement near the Marian Column. Marked Prague's noon from 1652 to 1918. Free, always accessible.",
+        "guide_section": "Part 1",
+        "visit_type": "open access",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4222, 50.0880] },
+      "properties": {
+        "name": "Berta Fanta's Salon (U Kamenného stolu)",
+        "theme": "Einstein's Prague social circle, relativity discussions",
+        "description": "Staroměstské nám. 551/17. Plaque marks the salon where Einstein played violin and discussed physics with Georg Pick, Max Brod, and Franz Kafka.",
+        "guide_section": "Part 1",
+        "visit_type": "plaque only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4228, 50.0878] },
+      "properties": {
+        "name": "Týn Church — Tycho Brahe's Tomb",
+        "theme": "Tycho Brahe — observational astronomy, planetary position data",
+        "description": "Church of Our Lady before Týn. Red marble tombstone near 1st south pillar. Tue–Sat ~10–1, 3–5. Free admission. Enter via passage at Celetná 5.",
+        "guide_section": "Part 1",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4221, 50.0860] },
+      "properties": {
+        "name": "Ernst Mach Memorial Plaque (EPS Historic Site)",
+        "theme": "Mach's critique of Newtonian mechanics, influence on Einstein",
+        "description": "Ovocný trh 562/7. Bronze bust and trilingual plaque (2016) marking Mach's physics institute 1867–1879. European Physical Society Historic Site.",
+        "guide_section": "Part 1",
+        "visit_type": "plaque only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4228, 50.0862] },
+      "properties": {
+        "name": "The Karolinum — Doppler's 1842 presentation",
+        "theme": "Doppler effect — announced here on 25 May 1842",
+        "description": "Ovocný trh 3 / Železná 9. Seat of Charles University since 1383. Christian Doppler presented 'On the Colored Light of Double Stars' to 6 people here. Gothic oriel window.",
+        "guide_section": "Part 1",
+        "visit_type": "exterior; occasional exhibitions",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4160, 50.0862] },
+      "properties": {
+        "name": "Klementinum — Astronomical Tower and Baroque Library",
+        "theme": "Noon determination, meridian observations, continuous meteorological record since 1775",
+        "description": "Mariánské nám. 5 / Karlova. Tower where Prague noon was determined (1842–1928). Guided tours ~50 min, ~404 CZK. Book ahead. Not wheelchair accessible.",
+        "guide_section": "Part 1",
+        "visit_type": "interior visit (guided tour)",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4152, 50.0858] },
+      "properties": {
+        "name": "Kepler's House — Karlova 4",
+        "theme": "Kepler's 1st and 2nd laws of planetary motion derived here (1607–1612)",
+        "description": "Karlova 188/4. Bronze plaque and courtyard fountain depicting the solar system. Former Kepler Museum (closed 2017; exhibition transferred to NTM).",
+        "guide_section": "Part 1",
+        "visit_type": "plaque + courtyard",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4114, 50.0865] },
+      "properties": {
+        "name": "Charles Bridge",
+        "theme": "Astrological founding (9 July 1357, 5:31 AM), solstice solar alignment",
+        "description": "Founded on the palindrome 1-3-5-7-9-7-5-3-1 under precise astrological alignment. Summer solstice sunset aligns through the Old Town Tower to St. Vitus Cathedral. Free, always open.",
+        "guide_section": "Part 2",
+        "visit_type": "open access",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4030, 50.0890] },
+      "properties": {
+        "name": "Queen Anne's Summer Palace (Belvedere)",
+        "theme": "Rudolf II's astronomical observatory; Tycho and Kepler observed here",
+        "description": "Royal Garden, north of Prague Castle. Renaissance palace converted to observatory by Rudolf II. Garden free, daily 10–7 Apr–Oct. Interior only during exhibitions.",
+        "guide_section": "Part 4",
+        "visit_type": "garden open; interior occasional",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.3926, 50.0894] },
+      "properties": {
+        "name": "Nový Svět 1 — Tycho Brahe's First Prague Home",
+        "theme": "Tycho Brahe's residence upon arrival in Prague (1600)",
+        "description": "Nový Svět 76/1 ('U Zlatého Noha'). 1901 plaque. Now Aparthotel Tycho de Brahe. Charming quiet street near Prague Castle.",
+        "guide_section": "Part 4",
+        "visit_type": "plaque only; street accessible",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.3900, 50.0880] },
+      "properties": {
+        "name": "Brahe–Kepler Monument, Pohořelec",
+        "theme": "The collaboration that produced the laws of orbital mechanics",
+        "description": "Bronze statue by Josef Vajce (1984) depicting Tycho Brahe and Kepler in conversation. Near Gymnázium Jana Keplera. Free, 24/7.",
+        "guide_section": "Part 4",
+        "visit_type": "open access",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.3888, 50.0876] },
+      "properties": {
+        "name": "Gymnázium Jana Keplera",
+        "theme": "Named after Kepler; on Keplerova street near his former quarters",
+        "description": "Parléřova 118/2. One of the Czech Republic's top secondary schools, named after Kepler since 1971.",
+        "guide_section": "Part 4",
+        "visit_type": "exterior only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.3886, 50.0862] },
+      "properties": {
+        "name": "Strahov Monastery Library",
+        "theme": "Historic astronomical texts, celestial globes, star atlases",
+        "description": "Strahovské nádvoří 1/132. Theological and Philosophical Halls with 17th-c. Blaeu globes and possible 14th-c. Venetian star atlas. Daily 9–5, ~190 CZK.",
+        "guide_section": "Part 5",
+        "visit_type": "interior visit (from doorway)",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.3952, 50.0833] },
+      "properties": {
+        "name": "Štefánik Observatory, Petřín Hill",
+        "theme": "Public astronomy, named for astronomer M.R. Štefánik",
+        "description": "Strahovská 205. Three telescope domes, meteorite exhibition. Tue–Sun, afternoons + evening sessions. ~100 CZK. Funicular closed in 2026 — walk up from Strahov or Újezd.",
+        "guide_section": "Part 5",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4145, 50.0810] },
+      "properties": {
+        "name": "Café Louvre — Einstein's regular café",
+        "theme": "Einstein met Pick and Heinrich here to discuss gravity and light",
+        "description": "Národní 1987/22 (1st floor). Founded 1902. Also frequented by Kafka and Čapek. Mon–Fri 8 AM – 11:30 PM, Sat–Sun from 9 AM.",
+        "guide_section": "Part 6",
+        "visit_type": "operating café",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4189, 50.0757] },
+      "properties": {
+        "name": "Doppler Plaque — Karlovo náměstí",
+        "theme": "Doppler's Prague residence and the former Polytechnic",
+        "description": "Karlovo nám. 6/20. White marble plaque (1903) on the site of Doppler's former home/laboratory. ČVUT main campus adjacent.",
+        "guide_section": "Part 6",
+        "visit_type": "plaque only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4252, 50.0883] },
+      "properties": {
+        "name": "Doppler's Family Home — U Obecního Dvora 7",
+        "theme": "Where Doppler lived 1843–1847 after announcing his principle",
+        "description": "U Obecního Dvora 7/799, Prague 1. Bronze plaque with relief portrait (2006) by Ellen Jilemnicka. Private building; plaque visible from street.",
+        "guide_section": "Part 6",
+        "visit_type": "plaque only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4260, 50.0696] },
+      "properties": {
+        "name": "Viničná 7 — Mach's and Einstein's Physics Institute",
+        "theme": "Mach 1879–1895; Einstein 1911–1912. General relativity work.",
+        "description": "Viničná 1594/7, Prague 2. Where Einstein wrote on the equivalence principle and gravitational light deflection. Gilded relief in vestibule. Active university building.",
+        "guide_section": "Part 6",
+        "visit_type": "exterior; lobby possibly accessible",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4043, 50.0718] },
+      "properties": {
+        "name": "Einstein's Apartment — Lesnická 7, Smíchov",
+        "theme": "Einstein's Prague residence 1911–1912",
+        "description": "Lesnická 1215/7, Prague 5. Plaque with life-size bronze head (1979). Einstein walked from here across Palacký Bridge to Viničná 7 daily.",
+        "guide_section": "Part 8",
+        "visit_type": "plaque only",
+        "marker-color": "#f39c12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4005, 50.0870] },
+      "properties": {
+        "name": "Prague Castle",
+        "theme": "Rudolf II's court — centre of European astronomy 1583–1612",
+        "description": "Rudolf II assembled Tycho, Kepler, Bürgi, and Habermel here. Castle grounds free; interior circuits from ~250 CZK. Daily 6 AM – 10 PM (grounds).",
+        "guide_section": "Part 4",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4287, 50.0854] },
+      "properties": {
+        "name": "U Zlatého Tygra (The Golden Tiger)",
+        "theme": "Nearby refreshment stop — no direct PNT connection",
+        "description": "Husova 17. Legendary beer hall, unpasteurized Pilsner Urquell. Visited by Havel and Clinton (1994). Opens daily at 3 PM.",
+        "guide_section": "Part 1 (nearby break)",
+        "visit_type": "pub",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4187, 50.0738] },
+      "properties": {
+        "name": "U Fleků Brewery",
+        "theme": "Nearby refreshment — Central Europe's oldest brewery (since 1499)",
+        "description": "Křemencova 11. Dark lager brewed on-site, Gothic/Renaissance halls, brewery museum. Open daily 10 AM – 11 PM.",
+        "guide_section": "Evening additions",
+        "visit_type": "pub/restaurant",
+        "marker-color": "#8e44ad"
+      }
+    }
+  ]
+}
