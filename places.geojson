@@ -20,7 +20,7 @@
         "name": "EUSPA – EU Agency for the Space Programme",
         "theme": "Galileo, EGNOS, Copernicus, GOVSATCOM",
         "description": "Janovského 438/2, Prague 7. ~5 min walk from the meeting venue.",
-        "visit_type": "exterior only",
+        "visit_type": "free / exterior",
         "marker-color": "#2980b9",
         "guide_anchor": "euspa-where-galileo-is-managed--practically-next-door"
       }
@@ -44,7 +44,7 @@
         "name": "Letná Park — historic noon cannon site",
         "theme": "Timekeeping — Prague's pre-radio noon signal (1891–1928)",
         "description": "Panoramic views. Beer garden under chestnut trees.",
-        "visit_type": "open access",
+        "visit_type": "free / exterior",
         "marker-color": "#27ae60",
         "guide_anchor": "letná-park-the-noon-cannon-site-and-pragues-best-view"
       }
@@ -68,7 +68,7 @@
         "name": "Prague Meridian",
         "theme": "Solar time determination, reference meridian",
         "description": "Brass strip in Old Town Square pavement. Free, always accessible.",
-        "visit_type": "open access",
+        "visit_type": "free / exterior",
         "marker-color": "#27ae60",
         "guide_anchor": "the-prague-meridian-where-noon-was-defined"
       }
@@ -80,8 +80,8 @@
         "name": "Berta Fanta's Salon (U Kamenného stolu)",
         "theme": "Einstein's Prague social circle, relativity discussions",
         "description": "Staroměstské nám. 551/17. Plaque only.",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "berta-fantas-salon-where-einstein-played-violin-and-talked-physics"
       }
     },
@@ -104,8 +104,8 @@
         "name": "Ernst Mach Memorial Plaque (EPS Historic Site)",
         "theme": "Mach's critique of Newtonian mechanics, influence on Einstein",
         "description": "Ovocný trh 562/7. Bronze bust and trilingual plaque (2016).",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "ernst-machs-physics-institute-the-man-who-made-einstein-rethink-space-and-time"
       }
     },
@@ -116,8 +116,8 @@
         "name": "The Karolinum — Doppler's 1842 presentation",
         "theme": "Doppler effect — announced here on 25 May 1842",
         "description": "Ovocný trh 3 / Železná 9. Gothic oriel window.",
-        "visit_type": "exterior; occasional exhibitions",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "the-karolinum-where-doppler-announced--the-doppler-effect"
       }
     },
@@ -140,8 +140,8 @@
         "name": "Kepler's House — Karlova 4",
         "theme": "Kepler's 1st and 2nd laws derived here (1607–1612)",
         "description": "Karlova 188/4. Bronze plaque and courtyard fountain.",
-        "visit_type": "plaque + courtyard",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "keplers-house-at-karlova-4-where-the-laws-of-planetary-motion-were-discovered"
       }
     },
@@ -152,7 +152,7 @@
         "name": "Charles Bridge",
         "theme": "Astrological founding (9 July 1357, 5:31 AM)",
         "description": "Founded on the palindrome 1-3-5-7-9-7-5-3-1. Free, always open.",
-        "visit_type": "open access",
+        "visit_type": "free / exterior",
         "marker-color": "#27ae60",
         "guide_anchor": "charles-bridge-founded-on-a-cosmic-palindrome"
       }
@@ -164,7 +164,7 @@
         "name": "Queen Anne's Summer Palace (Belvedere)",
         "theme": "Rudolf II's astronomical observatory",
         "description": "Royal Garden, north of Prague Castle. Garden free, daily 10–7 Apr–Oct.",
-        "visit_type": "garden open; interior occasional",
+        "visit_type": "free / exterior",
         "marker-color": "#27ae60",
         "guide_anchor": "queen-annes-summer-palace-belvedere-where-tycho-and-kepler-observed-the-sky"
       }
@@ -176,8 +176,8 @@
         "name": "Nový Svět 1 — Tycho Brahe's First Prague Home",
         "theme": "Tycho Brahe's residence upon arrival in Prague (1600)",
         "description": "Nový Svět 76/1. 1901 plaque. Now Aparthotel Tycho de Brahe.",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "nový-svět-tycho-brahes-first-prague-home"
       }
     },
@@ -188,7 +188,7 @@
         "name": "Brahe–Kepler Monument, Pohořelec",
         "theme": "The collaboration that produced orbital mechanics",
         "description": "Bronze statue by Josef Vajce (1984). Free, 24/7.",
-        "visit_type": "open access",
+        "visit_type": "free / exterior",
         "marker-color": "#27ae60",
         "guide_anchor": "the-brahekepler-monument-and-kepler-gymnasium-at-pohořelec"
       }
@@ -224,7 +224,7 @@
         "name": "Café Louvre — Einstein's regular café",
         "theme": "Einstein met Pick and Heinrich here to discuss gravity and light",
         "description": "Národní 1987/22 (1st floor). Mon–Fri 8 AM – 11:30 PM, Sat–Sun from 9 AM.",
-        "visit_type": "café",
+        "visit_type": "eating & drinking",
         "marker-color": "#8e44ad",
         "guide_anchor": "café-louvre-einsteins-regular-table"
       }
@@ -236,8 +236,8 @@
         "name": "Doppler Plaque — Karlovo náměstí",
         "theme": "Doppler's Prague residence and the former Polytechnic",
         "description": "Karlovo nám. 6/20. White marble plaque (1903).",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "dopplers-prague-the-plaque-at-karlovo-náměstí-and-his-home-in-old-town"
       }
     },
@@ -248,8 +248,8 @@
         "name": "Doppler's Family Home — U Obecního Dvora 7",
         "theme": "Where Doppler lived 1843–1847",
         "description": "U Obecního Dvora 7/799, Prague 1. Bronze plaque (2006).",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "dopplers-prague-the-plaque-at-karlovo-náměstí-and-his-home-in-old-town"
       }
     },
@@ -260,8 +260,8 @@
         "name": "Viničná 7 — Mach's and Einstein's Physics Institute",
         "theme": "Mach 1879–1895; Einstein 1911–1912. General relativity work.",
         "description": "Viničná 1594/7, Prague 2. Active university building.",
-        "visit_type": "exterior; lobby possibly accessible",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "viničná-7-the-building-where-mach-and-einstein-both-worked"
       }
     },
@@ -272,8 +272,8 @@
         "name": "Einstein's Apartment — Lesnická 7, Smíchov",
         "theme": "Einstein's Prague residence 1911–1912",
         "description": "Lesnická 1215/7, Prague 5. Plaque with bronze head (1979).",
-        "visit_type": "plaque only",
-        "marker-color": "#f39c12",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60",
         "guide_anchor": "einsteins-home-at-lesnická-7"
       }
     },
@@ -296,7 +296,7 @@
         "name": "U Zlatého Tygra (The Golden Tiger)",
         "theme": "Refreshment — real locals' pick",
         "description": "Husova 17. Unpasteurised Pilsner Urquell. Opens daily at 3 PM.",
-        "visit_type": "pub",
+        "visit_type": "eating & drinking",
         "marker-color": "#8e44ad",
         "guide_anchor": null
       }
@@ -308,7 +308,7 @@
         "name": "U Fleků Brewery",
         "theme": "Refreshment — Central Europe's oldest brewery (since 1499)",
         "description": "Křemencova 11. Dark lager brewed on-site. Open daily 10 AM – 11 PM.",
-        "visit_type": "pub/restaurant",
+        "visit_type": "eating & drinking",
         "marker-color": "#8e44ad",
         "guide_anchor": null
       }
