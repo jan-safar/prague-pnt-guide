@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prague PNT Heritage Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&family=DM+Sans:wght@400;500;600&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: #f8f8fa;
+    color: #2c2c30;
+  }
+
+  #header {
+    background: #ffffff;
+    border-bottom: 1px solid #e2e2e6;
+    padding: 1.2rem 1.5rem;
+  }
+
+  #header h1 {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #1a1a1e;
+    letter-spacing: 0.02em;
+  }
+
+  #header h1 span {
+    color: #2563eb;
+  }
+
+  #header p {
+    font-size: 0.8rem;
+    color: #71717a;
+    margin-top: 0.25rem;
+  }
+
+  #map {
+    width: 100%;
+    height: calc(100vh - 110px);
+    min-height: 500px;
+  }
+
+  #legend {
+    display: flex;
+    gap: 1.2rem;
+    padding: 0.6rem 1.5rem;
+    background: #f0f0f4;
+    border-bottom: 1px solid #e2e2e6;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+    color: #52525b;
+  }
+
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* Popup styling */
+  .leaflet-popup-content-wrapper {
+    background: #ffffff !important;
+    color: #2c2c30 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12) !important;
+    border: 1px solid #e2e2e6 !important;
+    max-width: 320px;
+  }
+
+  .leaflet-popup-tip {
+    background: #ffffff !important;
+    border: 1px solid #e2e2e6 !important;
+    border-top: none !important;
+    border-left: none !important;
+  }
+
+  .leaflet-popup-close-button {
+    color: #a1a1aa !important;
+    font-size: 18px !important;
+  }
+
+  .leaflet-popup-close-button:hover {
+    color: #2c2c30 !important;
+  }
+
+  .popup-name {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1a1a1e;
+    margin-bottom: 0.3rem;
+    line-height: 1.3;
+  }
+
+  .popup-theme {
+    font-size: 0.8rem;
+    color: #2563eb;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+  }
+
+  .popup-description {
+    font-size: 0.8rem;
+    color: #52525b;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+  }
+
+  .popup-visit {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    background: #f0f0f4;
+    color: #52525b;
+    margin-bottom: 0.5rem;
+  }
+
+  .popup-guide-link {
+    display: inline-block;
+    font-size: 0.78rem;
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 0.2rem;
+  }
+
+  .popup-guide-link:hover {
+    text-decoration: underline;
+    color: #1d4ed8;
+  }
+
+  .leaflet-control-attribution {
+    background: rgba(255, 255, 255, 0.85) !important;
+    color: #a1a1aa !important;
+    font-size: 0.65rem !important;
+  }
+
+  .leaflet-control-attribution a {
+    color: #71717a !important;
+  }
+
+  @media (max-width: 600px) {
+    #header { padding: 0.8rem 1rem; }
+    #header h1 { font-size: 1.1rem; }
+    #legend { gap: 0.8rem; padding: 0.5rem 1rem; }
+    .legend-item { font-size: 0.7rem; }
+    #map { height: calc(100vh - 100px); }
+  }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>Prague: <span>A Map of PNT Heritage</span></h1>
+  <p>Sites from the walking guide for RTCM SC 104 &amp; SC 134 attendees, May 2026</p>
+</div>
+
+<div id="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#e74c3c"></div> Meeting venue</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#2980b9"></div> Interior visit</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#f39c12"></div> Plaque / exterior</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#27ae60"></div> Open access</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#8e44ad"></div> Café / pub</div>
+</div>
+
+<div id="map"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const GUIDE_URL = 'https://github.com/jan-safar/prague-pnt-guide/blob/main/guide.md';
+
+const map = L.map('map', {
+  center: [50.084, 14.415],
+  zoom: 14,
+  zoomControl: true
+});
+
+// CartoDB Voyager tiles — free, no API key, clean light aesthetic
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
+
+function createMarkerIcon(color, isVenue) {
+  const size = isVenue ? 16 : 12;
+  const border = isVenue ? 3 : 2;
+  return L.divIcon({
+    className: 'custom-marker',
+    html: `<div style="
+      width: ${size}px;
+      height: ${size}px;
+      background: ${color};
+      border: ${border}px solid rgba(255,255,255,0.95);
+      border-radius: 50%;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+    "></div>`,
+    iconSize: [size + border * 2, size + border * 2],
+    iconAnchor: [(size + border * 2) / 2, (size + border * 2) / 2],
+    popupAnchor: [0, -(size / 2 + border)]
+  });
+}
+
+function buildPopup(props) {
+  let html = `<div class="popup-name">${props.name}</div>`;
+  html += `<div class="popup-theme">${props.theme}</div>`;
+  if (props.description) {
+    html += `<div class="popup-description">${props.description}</div>`;
+  }
+  if (props.visit_type) {
+    html += `<div class="popup-visit">${props.visit_type}</div>`;
+  }
+  if (props.guide_anchor) {
+    html += `<br><a class="popup-guide-link" href="${GUIDE_URL}#${props.guide_anchor}" target="_blank" rel="noopener">→ Read full entry in the guide</a>`;
+  }
+  return html;
+}
+
+fetch('places.geojson')
+  .then(r => r.json())
+  .then(data => {
+    data.features.forEach(feature => {
+      const props = feature.properties;
+      const coords = feature.geometry.coordinates;
+      const color = props['marker-color'] || '#2980b9';
+      const isVenue = props.visit_type === 'venue';
+
+      const marker = L.marker(
+        [coords[1], coords[0]],
+        { icon: createMarkerIcon(color, isVenue) }
+      ).addTo(map);
+
+      marker.bindPopup(buildPopup(props), {
+        maxWidth: 300,
+        minWidth: 200
+      });
+    });
+  })
+  .catch(err => {
+    console.error('Failed to load places.geojson:', err);
+  });
+</script>
+
+</body>
+</html>
