@@ -224,11 +224,14 @@ function buildPopup(props) {
   if (props.visit_type) {
     html += `<div class="popup-visit">${props.visit_type}</div>`;
   }
-  if (props.guide_anchor) {
-    html += `<br><a class="popup-guide-link" href="${GUIDE_URL}#${props.guide_anchor}" target="_blank" rel="noopener">→ Read full entry in the guide</a>`;
+  if (props.id) {
+    html += `<br><a class="popup-guide-link" href="${GUIDE_URL}#${props.id}" target="_blank" rel="noopener">→ Read full entry in the guide</a>`;
   }
   return html;
 }
+
+// Store markers by id for hash-based navigation
+const markersById = {};
 
 fetch('places.geojson')
   .then(r => r.json())
@@ -248,11 +251,31 @@ fetch('places.geojson')
         maxWidth: 300,
         minWidth: 200
       });
+
+      // Register marker by id for hash navigation
+      if (props.id) {
+        markersById[props.id] = { marker, coords: [coords[1], coords[0]] };
+      }
     });
+
+    // If the URL has a hash, zoom to that marker and open its popup
+    openMarkerFromHash();
   })
   .catch(err => {
     console.error('Failed to load places.geojson:', err);
   });
+
+function openMarkerFromHash() {
+  const hash = window.location.hash.replace('#', '');
+  if (hash && markersById[hash]) {
+    const { marker, coords } = markersById[hash];
+    map.setView(coords, 17);
+    marker.openPopup();
+  }
+}
+
+// Also respond to hash changes while the page is open
+window.addEventListener('hashchange', openMarkerFromHash);
 </script>
 
 </body>
