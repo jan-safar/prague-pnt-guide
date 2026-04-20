@@ -1,6 +1,6 @@
 # Prague: A Walking Guide to the Capital of Satellite Navigation 🛰️
 
-A thematic walking guide to Prague for the **Positioning, Navigation, and Timing (PNT)** community — tracing the city's extraordinary scientific heritage from the 1410 Astronomical Clock to the EU Agency for the Space Programme (EUSPA), which manages Galileo from its Prague headquarters.
+A thematic walking guide to Prague for the **Positioning, Navigation, and Timing (PNT)** community – tracing the city's extraordinary scientific heritage from the 1410 Astronomical Clock to the EU Agency for the Space Programme (EUSPA), which manages Galileo from its Prague headquarters.
 
 Originally prepared for attendees and partners of the **RTCM SC 104** (Differential GNSS) and **RTCM SC 134** (Integrity Monitoring for High Precision GNSS) meetings in Prague, **19–21 May 2026**.
 
@@ -8,26 +8,33 @@ Originally prepared for attendees and partners of the **RTCM SC 104** (Different
 
 Prague is where the foundational science of satellite navigation was forged:
 
-- **Tycho Brahe** (1599–1601) — his planetary observations, made in Prague, gave Kepler the data for orbital mechanics
-- **Johannes Kepler** (1600–1612) — derived his three laws of planetary motion here; the Keplerian elements in every GNSS ephemeris are named for this work
-- **Christian Doppler** (1842) — announced the Doppler effect to six people at the Royal Bohemian Society of Sciences in Prague; every GNSS receiver uses this principle
-- **Ernst Mach** (1867–1895) — 28 years challenging Newtonian absolutes, shaping Einstein's thinking
-- **Albert Einstein** (1911–1912) — worked on the equivalence principle and gravitational light deflection in Prague; without general relativity, GNSS clocks would drift ~38 μs/day
-- **Jost Bürgi** and **Erasmus Habermel** — precision clockmakers and instrument makers at Rudolf II's court
+- **Tycho Brahe** (1599–1601) – his planetary observations, made in Prague, gave Kepler the data for orbital mechanics
+- **Johannes Kepler** (1600–1612) – derived his three laws of planetary motion here; the Keplerian elements in every GNSS ephemeris are named for this work
+- **Christian Doppler** (1842) – announced the Doppler effect to six people at the Royal Bohemian Society of Sciences in Prague; every GNSS receiver uses this principle
+- **Ernst Mach** (1867–1895) – 28 years challenging Newtonian absolutes, shaping Einstein's thinking
+- **Albert Einstein** (1911–1912) – worked on the equivalence principle and gravitational light deflection in Prague; without general relativity, GNSS clocks would drift ~38 μs/day
+- **Jost Bürgi** and **Erasmus Habermel** – precision clockmakers and instrument makers at Rudolf II's court
 - **The Astronomical Clock** (1410), **Klementinum observatory**, **Prague Meridian**, and more
-- **EUSPA** — the EU agency managing Galileo, EGNOS, and Copernicus, headquartered in Prague
+- **EUSPA** – the EU agency managing Galileo, EGNOS, and Copernicus, headquartered in Prague
 
 ## Files
 
 | File | Description |
 |------|-------------|
-| [`guide.md`](guide.md) | The full walking guide — itinerary, history, practical info |
-| [`places.geojson`](places.geojson) | Interactive map of all sites (renders natively on GitHub) |
+| [`guide.md`](guide.md) | The full walking guide – itinerary, history, practical info |
+| [`places.geojson`](places.geojson) | All sites as GeoJSON data (also renders as a basic map on GitHub) |
+| [`index.html`](index.html) | Interactive map with colour-coded markers and links to the guide |
 | [`sources.md`](sources.md) | Sources and references used in the guide |
 
 ## Interactive map
 
-Click [`places.geojson`](places.geojson) to see all locations on an interactive map directly on GitHub — no API key or setup needed. Each marker includes the site name, its PNT theme, and a brief description.
+> **TODO:** Correct coordinates in `places.geojson`; currently they are approximate and may not be accurate for all sites.
+
+**[View the interactive map](https://jan-safar.github.io/prague-pnt-guide/)** – colour-coded markers for each site, with popups showing the PNT theme, practical details, and a direct link to the full entry in the guide.
+
+You can also link directly to a specific site on the map by adding its ID to the URL, e.g. [`#orloj`](https://jan-safar.github.io/prague-pnt-guide/#orloj) for the Astronomical Clock. The map zooms to the marker and opens its popup.
+
+The map reads from `places.geojson`, so contributors only need to edit the GeoJSON file – the map updates automatically.
 
 ## Contributing
 
