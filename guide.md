@@ -13,7 +13,7 @@ This guide organizes Prague's PNT heritage into a walkable itinerary by neighbou
 <a id="orientation"></a>
 ### Starting from Mama Shelter Prague: orientation
 
-Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava river bends. Holešovice has its own place in the PNT story, and it offers easy access to the rest of the city.
+Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava river bends. Holešovice has its own place in the PNT story, and it offers easy access to the rest of the city. [View on map](https://jan-safar.github.io/prague-pnt-guide/#orientation)
 
 - **EUSPA HQ:** ~5 min walk (Janovského 438/2) 
 - **National Technical Museum:** ~10–12 min walk (Kostelní 42)
