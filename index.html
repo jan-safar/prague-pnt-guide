@@ -233,7 +233,7 @@ function buildPopup(props) {
 // Store markers by id for hash-based navigation
 const markersById = {};
 
-fetch('places.geojson')
+fetch('places.geojson?v=' + Date.now())
   .then(r => r.json())
   .then(data => {
     data.features.forEach(feature => {
