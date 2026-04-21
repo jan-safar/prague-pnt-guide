@@ -27,12 +27,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [14.4252, 50.0964] },
+      "geometry": { "type": "Point", "coordinates": [14.424864456343911, 50.097436189151274] },
       "properties": {
         "id": "tech-museum",
         "name": "National Technical Museum",
-        "theme": "Kepler instruments, Bürgi sextants, Habermel astrolabes, timekeeping",
-        "description": "Kostelní 42, Prague 7. Tue–Sun 9–6, ~250 CZK.",
+        "theme": "Kepler instruments, Bürgi sextants, Habermel astrolabes, timekeeping, transport",
+        "description": "Kostelní 1320/42, Prague 7. Tue–Sun 9–6, ~330 CZK.",
         "visit_type": "interior visit",
         "marker-color": "#2980b9"
       }
@@ -42,8 +42,8 @@
       "geometry": { "type": "Point", "coordinates": [14.4170, 50.0952] },
       "properties": {
         "id": "letna",
-        "name": "Letná Park — historic noon cannon site",
-        "theme": "Timekeeping — Prague's pre-radio noon signal (1891–1928)",
+        "name": "Letná Park",
+        "theme": "Timekeeping — Prague's pre-radio noon signal (1891–1920s)",
         "description": "Panoramic views. Beer garden under chestnut trees.",
         "visit_type": "free / exterior",
         "marker-color": "#27ae60"

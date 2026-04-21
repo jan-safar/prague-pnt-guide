@@ -33,7 +33,7 @@ You've just finished a meeting day. You're in Holešovice. What's walking distan
 
 1. **[EUSPA HQ](#euspa)** – 10 min walk. Snap a group photo outside the building where Galileo is managed.
 2. **[National Technical Museum](#tech-museum)** – 10 min walk, **open until 6 PM**. Kepler and Bürgi's original instruments, the Measuring Time exhibition, a touchable meteorite, a spectacular transport hall. Allow 1–1.5 hours.
-3. **[Letná Park](#letna)** – 10 min walk. The high terrace overlooking the Vltava with the city's best sunset panorama. From 1891 to 1928, a cannon was fired here daily at noon in response to the Klementinum tower's flag signal – Prague's pre-radio time service. Beer garden under the chestnut trees.
+3. **[Letná Park](#letna)** – 10 min walk. The high terrace overlooking the Vltava with the city's best sunset panorama. From 1891 to the early 1920s, a cannon was fired from the Letná ridge daily at noon in response to the Klementinum tower's flag signal – Prague's pre-radio time service. Beer garden under the chestnut trees.
 
 ### Half-day for light explorers (~3–4 hours)
 
@@ -165,7 +165,7 @@ The Karolinum's Gothic oriel window on Železná street is its most distinctive 
 
 **Location:** Mariánské náměstí 5 / Karlova street, Prague 1 | **Time needed:** 45–60 min (guided tour)
 
-This vast Baroque complex – the second-largest building in Prague after the Castle – houses the National Library and one of Prague's most extraordinary experiences: the **Astronomical Tower**. From the tower's Meridian Hall, a beam of sunlight entering through a calibrated aperture was used to determine the exact moment of solar noon. For over 80 years (1842–1928), Klementinum astronomers **announced true noon to Prague** by ringing a bell and waving a flag from the tower; from 1891, a **cannon in Letná Park** was fired when the flag was seen – Prague's own time signal, pre-radio (Letná Park is a 10-minute walk from your hotel). 
+This vast Baroque complex – the second-largest building in Prague after the Castle – houses the National Library and one of Prague's most extraordinary experiences: the **Astronomical Tower**. From the tower's Meridian Hall, a beam of sunlight entering through a calibrated aperture was used to determine the exact moment of solar noon. For over 80 years (1842–1928), Klementinum astronomers **announced true noon to Prague** by ringing a bell and waving a flag from the tower; from 1891, a **cannon was fired from the Letná ridge** when the flag was seen – Prague's own time signal, pre-radio (Letná Park is a 15-minute walk from your hotel). 
 
 But the Klementinum's noon wasn't just for Prague. **It set the time for railways across the entire western half of the Austro-Hungarian Empire** – the eastern half was synchronized by the Budapest observatory. This was 19th-century time distribution infrastructure, serving the same function that GNSS timing serves for transport networks today.
 
@@ -342,7 +342,7 @@ A **gilded relief of Einstein's head** is mounted in the building's vestibule. A
 <a id="euspa"></a>
 ### EUSPA: where Galileo is managed
 
-**Location:** Janovského 438/2, Prague 7 – Holešovice | **Walking time from Mama Shelter:** ~10 min
+**Location:** Janovského 438/2, Prague 7 – Holešovice | **Walking time from Mama Shelter:** ~10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#euspa)
 
 The **European Union Agency for the Space Programme (EUSPA)** is the body that manages **Galileo** (Europe's GNSS), **EGNOS** (the European SBAS), **Copernicus** (Earth observation) and **GOVSATCOM** (secure governmental communications), with its remit expanding to include the **IRIS²** secure connectivity constellation and space surveillance. It has, in various incarnations, been headquartered in Prague since 2012.
 
@@ -353,7 +353,7 @@ EUSPA is not routinely open to visitors (it holds public Open Days in November),
 <a id="tech-museum"></a>
 ### National Technical Museum: Kepler's instruments, Bürgi's sextants, 5,000 years of timekeeping
 
-**Location:** Kostelní 42, Prague 7 – Holešovice | **Walking time from Mama Shelter:** ~10–12 min | **Time needed:** 1.5–2 hours
+**Location:** Kostelní 42, Prague 7 – Holešovice | **Walking time from Mama Shelter:** ~10–12 min | **Time needed:** 1.5–2 hours | [View on map](https://jan-safar.github.io/prague-pnt-guide/#tech-museum)
 
 This outstanding museum is the single richest repository of PNT-relevant artefacts in Prague. Its permanent **Astronomy exhibition** features over **220 instruments** spanning the 15th to 21st centuries, including:
 
@@ -367,14 +367,14 @@ The **'Measuring Time' exhibition** traces the development of chronometry from m
 
 Additional halls cover **transport** (spectacular hall with locomotives, aircraft, vintage cars), printing, mining, and telecommunications.
 
-**Open Tue–Sun, 9 AM – 6 PM; closed Mondays.** Adults ~250 CZK; family tickets available. English descriptions throughout. On-site café. During the Prague Spring Festival, the museum also serves as a concert venue.
+**Open Tue–Sun, 9 AM – 6 PM; closed Mondays.** Adults ~330 CZK; family tickets available. English descriptions throughout. On-site café. During the Prague Spring Festival, the museum also serves as a concert venue.
 
 <a id="letna"></a>
-### Letná Park: the noon cannon site and Prague's best view
+### Letná Park: Panoramic views and the noon time signal
 
-**Location:** Letenské sady, Prague 7 | **Walking time from Mama Shelter:** ~10 min
+**Location:** Letenské sady, Prague 7 | **Walking time from Mama Shelter:** ~10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#letna)
 
-Not a formal museum stop, but unmissable for the view and the history. From Letná's terrace you look south across the Vltava at the Old Town, Charles Bridge, Prague Castle and Petřín – the entire PNT landscape of this guide laid out before you. From **1891 to 1928**, a cannon was fired from this park at noon each day, triggered when the Klementinum tower's flag was spotted through a telescope.
+Not a formal museum stop, but unmissable for the view and the history. From Letná's terrace you look south across the Vltava at the Old Town, Charles Bridge, Prague Castle and Petřín – the entire PNT landscape of this guide laid out before you. From **1891 to the early 1920s**, a cannon was fired from the Letná ridge at noon each day, triggered when the Klementinum tower's flag was spotted.
 
 The **Letná Beer Garden** (Letenský zámeček) under the chestnut trees is one of Prague's great pleasures on a warm May evening. Pilsner Urquell on draught, sausages and that view.
 
