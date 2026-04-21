@@ -4,6 +4,8 @@ A thematic walking guide to Prague for the **Positioning, Navigation and Timing 
 
 Originally prepared for attendees of the **RTCM SC 104** (Differential GNSS) and **RTCM SC 134** (Integrity Monitoring for High Precision GNSS) meetings in Prague, **19–21 May 2026**.
 
+📖 [Read the guide](guide.md) | 🗺️ [View the interactive map](https://jan-safar.github.io/prague-pnt-guide/)
+
 ## What's in this guide
 
 Prague is where the foundational science of satellite navigation was forged:
@@ -14,8 +16,8 @@ Prague is where the foundational science of satellite navigation was forged:
 - **Christian Doppler** (1842) – announced the Doppler effect to six people at the Royal Bohemian Society of Sciences in Prague; every GNSS receiver uses this principle
 - **Ernst Mach** (1867–1895) – 28 years challenging Newtonian absolutes, shaping Einstein's thinking
 - **Albert Einstein** (1911–1912) – worked on the equivalence principle and gravitational light deflection in Prague; without general relativity, GNSS clocks would drift ~38 μs/day
-- **The Astronomical Clock** (1410), **Klementinum observatory**, **Prague Meridian** and more ... 
-- **EUSPA** – the EU agency responsible for Galileo and EGNOS with expanding roles in Earth observation (Copernicus), secure communications (GOVSATCOM, IRIS²) and space surveillance (EU SST)
+- **The Astronomical Clock** (1410), **Prague Meridian**, **Klementinum observatory** and more ... 
+- **EUSPA** – the EU agency responsible for Galileo and EGNOS, with expanding roles in Earth observation (Copernicus), secure communications (GOVSATCOM, IRIS²) and space surveillance (EU SST)
 
 ## Files
 
