@@ -6,7 +6,7 @@
 
 You are meeting in Prague to discuss the future of GNSS standards – and there is no more fitting city on Earth to do so. **Prague is where the foundational science of satellite navigation was forged**, across four centuries of continuous discovery. **Tycho Brahe**'s meticulous observations of planetary positions (1599–1601) gave **Johannes Kepler** the data to derive his laws of orbital mechanics – the very equations that predict where every GNSS satellite is at every moment. **Christian Doppler** stood before six colleagues in 1842 and announced the frequency shift that bears his name – the Doppler effect is how every GNSS receiver measures satellite range-rate. **Albert Einstein** worked here in 1911–1912 on the equivalence principle and gravitational deflection of light, cornerstones of general relativity without which GNSS clocks would drift by ~38 microseconds per day – rendering positioning useless. **Ernst Mach** spent 28 years here challenging Newtonian absolutes, work that profoundly shaped Einstein's thinking.
 
-And the city's PNT heritage extends far beyond these five giants. The Prague Astronomical Clock has tracked the Sun, Moon and zodiac since 1410. The Klementinum observatory defined Prague's noon for over 80 years. Jost Bürgi built precision clocks and independently invented logarithms at Rudolf II's court. And today, **EUSPA – the EU agency that manages Galileo – is headquartered at Janovského 438/2, a five-minute walk from your meeting venue at Mama Shelter Prague (Veletržní 1502/20)**. From medieval timekeeping to 21st-century GNSS, Prague's story is the story of positioning, navigation and timing – and your meeting is taking place at the heart of it.
+And the city's PNT heritage extends far beyond these five giants. The Prague Astronomical Clock has tracked the Sun, Moon and zodiac since 1410. The Klementinum observatory defined Prague's noon for over 80 years. Jost Bürgi built precision clocks and independently invented logarithms at Rudolf II's court. And today, **EUSPA – the EU agency that manages Galileo – is headquartered at Janovského 438/2, a ten-minute walk from your meeting venue at Mama Shelter Prague (Veletržní 1502/20)**. From medieval timekeeping to 21st-century GNSS, Prague's story is the story of positioning, navigation and timing – and your meeting is taking place at the heart of it.
 
 This guide organizes Prague's PNT heritage into a walkable itinerary by neighbourhood, so you can follow a logical route on foot. Each stop highlights its connection to the science that makes your work possible. Late May in Prague offers long daylight (sunrise ~5:05 AM, sunset ~8:55 PM), temperatures around **19–22°C**, and gardens in full bloom. Your meetings coincide with the prestigious Prague Spring International Music Festival – book a concert if you can.
 
@@ -15,7 +15,7 @@ This guide organizes Prague's PNT heritage into a walkable itinerary by neighbou
 
 Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava river bends. Holešovice has its own place in the PNT story, and it offers easy access to the rest of the city. [View on map](https://jan-safar.github.io/prague-pnt-guide/#orientation)
 
-- **EUSPA HQ:** ~5 min walk (Janovského 438/2) 
+- **EUSPA HQ:** ~10 min walk (Janovského 438/2) 
 - **National Technical Museum:** ~10–12 min walk (Kostelní 42)
 - **Letná Park & beer garden:** ~10 min walk
 - **Old Town Square:** ~25 min walk across Štefánik Bridge, or ~10 min by tram (line 17 from Veletržní Palác)
@@ -31,7 +31,7 @@ The detailed guide below (Parts 1–9) covers the many PNT-related sites in Prag
 
 You've just finished a meeting day. You're in Holešovice. What's walking distance?
 
-1. **[EUSPA HQ](#euspa)** – 5 min walk. Snap a group photo outside the building where Galileo is managed.
+1. **[EUSPA HQ](#euspa)** – 10 min walk. Snap a group photo outside the building where Galileo is managed.
 2. **[National Technical Museum](#tech-museum)** – 10 min walk, **open until 6 PM**. Kepler and Bürgi's original instruments, the Measuring Time exhibition, a touchable meteorite, a spectacular transport hall. Allow 1–1.5 hours.
 3. **[Letná Park](#letna)** – 10 min walk. The high terrace overlooking the Vltava with the city's best sunset panorama. From 1891 to 1928, a cannon was fired here daily at noon in response to the Klementinum tower's flag signal – Prague's pre-radio time service. Beer garden under the chestnut trees.
 
@@ -426,7 +426,7 @@ Barrandov Studios, founded by Miloš Havel (uncle of President Václav Havel), r
 | Strahov Library | ✅ (from doorway) | – | Daily 9–5; ~190 CZK |
 | Štefánik Observatory | ✅ | – | Tue–Sun; ~100 CZK; evening sessions weather-dependent |
 | National Technical Museum | ✅ | – | Tue–Sun 9–6; ~250 CZK; 10 min from hotel |
-| EUSPA HQ | – | ✅ | ~5 min from hotel; not open to public |
+| EUSPA HQ | – | ✅ | ~10 min from hotel; not open to public |
 
 ## Transport, weather, and practicalities
 
