@@ -16,8 +16,9 @@ Prague is where the foundational science of satellite navigation was forged:
 - **Christian Doppler** (1842) – announced the Doppler effect to six people at the Royal Bohemian Society of Sciences in Prague; every GNSS receiver uses this principle
 - **Ernst Mach** (1867–1895) – 28 years challenging Newtonian absolutes, shaping Einstein's thinking
 - **Albert Einstein** (1911–1912) – worked on the equivalence principle and gravitational light deflection in Prague; without general relativity, GNSS clocks would drift ~38 μs/day
-- **The Astronomical Clock** (1410), **Prague Meridian**, **Klementinum observatory** and more ... 
-- **EUSPA** – the EU agency responsible for Galileo and EGNOS, with expanding roles in Earth observation (Copernicus), secure communications (GOVSATCOM, IRIS²) and space surveillance (EU SST)
+- **Hedy Lamarr** (1933) — starred in the film *Ecstasy* shot at Prague's Barrandov Studios; later co-invented spread-spectrum signal transmission, the principle behind GPS' CDMA signal structure
+ 
+The guide also covers Prague's **Astronomical Clock** (1410), the **Prague Meridian**, the **Klementinum observatory**, **EUSPA** and more – all with a focus on their connections to PNT.
 
 ## Files
 
@@ -29,8 +30,6 @@ Prague is where the foundational science of satellite navigation was forged:
 | [`sources.md`](sources.md) | Sources and references used in the guide |
 
 ## Interactive map
-
-> **TODO:** Correct coordinates in `places.geojson`; currently they are approximate and may not be accurate for all sites.
 
 **[View the interactive map](https://jan-safar.github.io/prague-pnt-guide/)** – colour-coded markers for each site, with popups showing the PNT theme, practical details, and a direct link to the full entry in the guide.
 
