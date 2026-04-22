@@ -73,7 +73,7 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 11. Walk to **[Štefánik Observatory](#stefanik)** on Petřín Hill (20 min walk + 30–45 min visit)
 12. Descend to Újezd, then across the river to **[Café Louvre](#cafe-louvre)** for afternoon coffee (Einstein's café)
 13. **[Doppler plaque](#doppler)** at Karlovo náměstí (15 min)
-14. **[Viničná 7](#vicnicna)** – Mach/Einstein institute (10 min)
+14. **[Viničná 7](#vinicna)** – Mach/Einstein institute (10 min)
 15. Optional: across Palacký Bridge to **[Einstein's apartment](#einstein-apartment)** (20 min)
 16. Return to hotel by tram, e.g. line 12 from Anděl to Strossmayerovo náměstí, or line 6 from Karlovo náměstí to Veletržní palác (20 min)
 
@@ -81,9 +81,11 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 
 ### 🍺 Evening additions
 
-- **U Zlatého Tygra** (Husova 17) – The authentic Prague pub. Unpasteurised Pilsner Urquell. Opens at 3 PM. Arrive early for a seat.
-- **Café Imperial** (Na Poříčí 15) – Stunning tiled Art Deco interior. Excellent for a celebratory dinner.
-- **Letná Beer Garden** – 10 min from your hotel, under the chestnut trees, with the best sunset view in Prague. The perfect end to a meeting day.
+<a id="u-zlateho-tygra"></a>
+<a id="cafe-imperial"></a>
+- **U Zlatého Tygra** (Husova 17) – The authentic Prague pub. Unpasteurised Pilsner Urquell. Opens at 3 PM. Arrive early for a seat. [View on map](https://jan-safar.github.io/prague-pnt-guide/#u-zlateho-tygra)
+- **Café Imperial** (Na Poříčí 15) – Stunning tiled Art Deco interior. Excellent for a celebratory dinner. [View on map](https://jan-safar.github.io/prague-pnt-guide/#cafe-imperial)
+- **Letná Beer Garden** – 10 min from your hotel, under the chestnut trees, with the best sunset view in Prague. The perfect end to a meeting day. [View on map](https://jan-safar.github.io/prague-pnt-guide/#letna)
 
 ## The detailed guide
 
@@ -97,7 +99,7 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 <a id="orloj"></a>
 ### The Astronomical Clock: seven centuries of celestial computation
 
-**Location:** Old Town Hall, Staroměstské náměstí 1 | **Time needed:** 20–30 min
+**Location:** Old Town Hall, Staroměstské náměstí 1 | **Time needed:** 20–30 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#orloj)
 
 Start where Prague's timekeeping story began. The Orloj, built in **1410**, is the world's oldest still-operating astronomical clock. The astronomer **Jan Šindel**, professor of mathematics at Charles University, designed its astronomical dial – a mechanical astrolabe displaying the position of the Sun and Moon against the zodiac, the horizon, and four simultaneous time systems (Babylonian hours, Old Bohemian hours, Central European time and sidereal time). The clockmaker **Mikuláš of Kadaň** built the mechanism. This was **medieval PNT:** the clock encoded a computational model of the heavens into brass gears, solving the same fundamental problem – 'where are the celestial bodies right now?' – that GNSS almanacs, ephemerides and orbit propagation software solve today.
 
@@ -108,7 +110,7 @@ The apostles' procession runs every hour from 9 AM to 11 PM. The Old Town Hall t
 <a id="meridian"></a>
 ### The Prague Meridian: where noon was defined
 
-**Location:** Pavement of Old Town Square, near the Marian Column | **Time needed:** 5 min
+**Location:** Pavement of Old Town Square, near the Marian Column | **Time needed:** 5 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#meridian)
 
 Look down. A **brass strip embedded in the cobblestones** marks the Prague Meridian at 14°25'17" East longitude, flanked by plaques in Latin and Czech: *"Meridianus quo olim tempus Pragense dirigebatur"* – "Meridian by which Prague time was once determined." From 1652 to 1918, when the shadow of the Marian Column (a 14-metre Baroque pillar) fell on this line, it was noon in Prague. The column was torn down in a nationalist demonstration after Czechoslovak independence in 1918; a replica was re-erected in June 2020. The meridian line was re-marked in 1990 with explanatory plaques. Always accessible, free.
 
@@ -117,7 +119,7 @@ Look down. A **brass strip embedded in the cobblestones** marks the Prague Merid
 <a id="tyn-church"></a>
 ### Týn Church: Tycho Brahe's tomb
 
-**Location:** Staroměstské náměstí 14 (entrance via passage at Celetná 5) | **Time needed:** 20 min
+**Location:** Staroměstské náměstí 14 (entrance via passage at Celetná 5) | **Time needed:** 20 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#tyn-church)
 
 The twin Gothic spires of the Church of Our Lady before Týn dominate Old Town Square. Inside, near the first south pillar of the main nave, a **red marble tombstone** with a carved portrait relief marks the grave of **Tycho Brahe** (1546–1601), the greatest observational astronomer of the pre-telescopic era. His prosthetic nose – revealed by a 2010 Czech-Danish exhumation to be made of **brass**, not silver – is visible in the relief. Latin inscriptions honour the man who achieved positional accuracies of roughly one arc-minute with naked-eye instruments, an astonishing feat. His catalogue of over 1,000 stellar positions and meticulously recorded planetary observations became the dataset from which Kepler derived his three laws.
 
@@ -130,16 +132,16 @@ The 2010 scientific study of his remains definitively ruled out mercury poisonin
 <a id="fanta-salon"></a>
 ### Berta Fanta's salon: where Einstein played violin and talked physics
 
-**Location:** Staroměstské náměstí 551/17 ("U Kamenného stolu" – At the Stone Table) | **Time needed:** 5 min (exterior/plaque only)
+**Location:** Staroměstské náměstí 551/17 ("U Kamenného stolu" – At the Stone Table) | **Time needed:** 5 min (exterior/plaque only) | [View on map](https://jan-safar.github.io/prague-pnt-guide/#fanta-salon)
 
-A plaque on this 14th-century building marks the salon where **Albert Einstein** was a regular guest during his Prague professorship (1911–1912). Berta Fanta, wife of the building's pharmacist, hosted weekly gatherings of German-speaking Jewish intellectuals. Einstein played Mozart on his violin; Max Brod accompanied on piano; Franz Kafka attended. Exterior viewing only; the building now houses a bookshop.
+A plaque on this 14th-century building marks the salon where **Albert Einstein** was a regular guest during his Prague professorship (1911–1912). Berta Fanta, wife of the building's pharmacist, hosted weekly gatherings of German-speaking Jewish intellectuals. Einstein played Mozart on his violin; Max Brod accompanied on piano; Franz Kafka attended. Exterior viewing only; the building now houses a pizzeria named after the great physicist.
 
 **PNT connection:** Einstein's Prague social circle included mathematician Georg Pick, who advised him to use Riemannian geometry for general relativity – the mathematical framework that ultimately explained why GNSS clocks in orbit tick faster than clocks on Earth.
 
 <a id="mach"></a>
 ### Ernst Mach's Physics Institute: the man who made Einstein rethink space and time
 
-**Location:** Ovocný trh 562/7 (Charles University Rectorate building) | **Time needed:** 5 min (plaque viewing)
+**Location:** Ovocný trh 562/7 (Charles University Rectorate building) | **Time needed:** 5 min (plaque viewing) | [View on map](https://jan-safar.github.io/prague-pnt-guide/#mach)
 
 A short walk south from the square brings you to the Fruit Market (Ovocný trh), where a **bronze memorial plaque with bust** honours **Ernst Mach** (1838–1916). Unveiled in 2016 as a European Physical Society Historic Site, the trilingual plaque (Czech, English, German) notes that Mach worked in this house between 1867 and 1879 and began his ground-breaking research into shock waves here. His critique of Newtonian mechanics profoundly influenced Albert Einstein.
 
@@ -150,7 +152,7 @@ Mach spent **28 years** as Professor of Experimental Physics at Charles-Ferdinan
 <a id="karolinum"></a>
 ### The Karolinum: where Doppler announced – the Doppler effect
 
-**Location:** Ovocný trh 3 / Železná 9 (corner, adjacent to Estates Theatre) | **Time needed:** 10 min
+**Location:** Ovocný trh 3 (corner, adjacent to Estates Theatre) | **Time needed:** 10 min (exterior viewing) | [View on map](https://jan-safar.github.io/prague-pnt-guide/#karolinum)
 
 Directly across from Mach's plaque stands the **Karolinum**, the historic seat of Charles University since 1383. On **25 May 1842**, in a meeting room of the **Royal Bohemian Society of Sciences** – which had its seat here – **Christian Doppler** presented his paper *'Über das farbige Licht der Doppelsterne'* ('On the Coloured Light of Double Stars') to an audience of **just six people**. He described the frequency shift caused by relative motion between source and observer. The paper's original application was to starlight, and its details about light were partially wrong, but the underlying principle was revolutionary and universal.
 
@@ -163,7 +165,7 @@ The Karolinum's Gothic oriel window on Železná street is its most distinctive 
 <a id="klementinum"></a>
 ### The Klementinum: Prague's time observatory and Kepler's lecture hall
 
-**Location:** Mariánské náměstí 5 / Karlova street, Prague 1 | **Time needed:** 45–60 min (guided tour)
+**Location:** Mariánské náměstí 5 / Karlova street, Prague 1 | **Time needed:** 45–60 min (guided tour) | [View on map](https://jan-safar.github.io/prague-pnt-guide/#klementinum)
 
 This vast Baroque complex – the second-largest building in Prague after the Castle – houses the National Library and one of Prague's most extraordinary experiences: the **Astronomical Tower**. From the tower's Meridian Hall, a beam of sunlight entering through a calibrated aperture was used to determine the exact moment of solar noon. For over 80 years (1842–1928), Klementinum astronomers **announced true noon to Prague** by ringing a bell and waving a flag from the tower; from 1891, a **cannon was fired from the Letná ridge** when the flag was seen – Prague's own time signal, pre-radio (Letná Park is a 15-minute walk from your hotel). 
 
@@ -171,7 +173,7 @@ But the Klementinum's noon wasn't just for Prague. **It set the time for railway
 
 The tower has also hosted continuous **meteorological observations since 1775** – the longest such record in the Czech lands. It was an active astronomical observatory from 1751 until 1938, when observations moved to Ondřejov.
 
-Einstein delivered his 1911 lectures on mechanics, molecular physics and thermodynamics here before the [Viničná](#vicnicna) building was ready. The Baroque Library Hall houses several of Kepler's manuscripts.
+Einstein delivered his 1911 lectures on mechanics, molecular physics and thermodynamics here before the [Viničná](#vinicna) building was ready. The Baroque Library Hall houses several of Kepler's manuscripts.
 
 **Guided tours** (~50 min) include the Baroque Library Hall, Meridian Hall with original mural quadrants and a climb to the tower summit for panoramic views. **Advance online booking strongly recommended** (capacity ~20 per tour). Tickets from **~404 CZK**; first two morning tours (9:00 and 9:30) are half-price. Not wheelchair accessible.
 
@@ -180,7 +182,7 @@ Einstein delivered his 1911 lectures on mechanics, molecular physics and thermod
 <a id="kepler-house"></a>
 ### Kepler's house at Karlova 4: where the laws of planetary motion were discovered
 
-**Location:** Karlova 4 (house no. 188, 'U Francouzské koruny' – At the French Crown) | **Time needed:** 10 min
+**Location:** Karlova 4 (house no. 188, 'U Francouzské koruny' – At the French Crown) | **Time needed:** 10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#kepler-house)
 
 On Karlova street – the old Royal Route between Old Town Square and Charles Bridge – a **large bronze plaque** marks the house where Johannes Kepler lived from **1607 to 1612**. In the inner courtyard (accessible through a passage to Anenská street), a small **Kepler fountain** by sculptor Zdeněk Kolářský depicts a stylised model of the solar system with orbital paths of five planets.
 
@@ -192,12 +194,14 @@ A small Kepler Museum operated here from 2009 to December 2017. The exhibition h
 
 *:beer: Nearby break: U Zlatého Tygra (The Golden Tiger), Husova 17, is a 3-minute walk south – a legendary beer hall serving unpasteurised Pilsner Urquell, famously visited by Václav Havel and Bill Clinton in 1994. Open daily from 3 PM.*
 
+[Back to routes](#choose-your-adventure)
+
 <a id="charles-bridge"></a>
 ## Part 2 – Across the Vltava: Charles Bridge
 
 ### Charles Bridge: founded on a cosmic palindrome
 
-**Walking time from Karlova 4:** 3 minutes (Karlova leads directly to the bridge)
+**Walking time from Karlova 4:** 3 minutes (Karlova leads directly to the bridge) | **Time needed:** 10–20 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#charles-bridge)
 
 Charles IV, deeply immersed in astrology, laid the bridge's foundation stone on **9th July 1357 at 5:31 AM** – encoding the numerical palindrome **1-3-5-7-9-7-5-3-1**. Court astrologers calculated that at this precise moment, all known planets were above the horizon, and the Sun was in the ascendant of Leo, the heraldic symbol of Bohemia. The astrological alignment was intended to bestow cosmic strength and permanence on the bridge – and it seems to have worked, as the bridge has stood for nearly 670 years, surviving floods, wars and the wear of countless footsteps.
 
@@ -208,6 +212,8 @@ On the bridge itself, note the statue of **St. John of Nepomuk** (8th on the rig
 The **Old Town Bridge Tower** (250 CZK) features 24 decorative elements representing the hours of the day and astronomical motifs. The sunset view from its top is extraordinary.
 
 **PNT connection:** The bridge's astrologically determined founding illustrates the deep entanglement of celestial observation, precise timekeeping and human affairs – the same entanglement that today takes the form of satellite navigation.
+
+[Back to routes](#choose-your-adventure)
 
 ## Part 3 – Malá Strana (Lesser Town): a brief transit stop
 
@@ -221,12 +227,14 @@ Kepler's first wife and son, who died of smallpox, are buried at **St. Giles Chu
 
 *From Lesser Town Square, continue uphill via Nerudova street toward Prague Castle. The walk is steep but lined with beautiful Baroque houses. Allow 15–20 minutes.*
 
+[Back to routes](#choose-your-adventure)
+
 ## Part 4 – Hradčany and Prague Castle: Rudolf II's cosmic court
 
 <a id="prague-castle"></a>
 ### Prague Castle
 
-**Walking time from Lesser Town Square:** 15–20 min uphill via Nerudova
+**Walking time from Lesser Town Square:** 15–20 min uphill via Nerudova street | [View on map](https://jan-safar.github.io/prague-pnt-guide/#prague-castle)
 
 Emperor **Rudolf II** (1552–1612) moved the imperial capital from Vienna to Prague in 1583, transforming Prague Castle into the most scientifically ambitious court in Europe. He assembled Tycho Brahe, Kepler, Jost Bürgi, Erasmus Habermel and dozens of other astronomers, clockmakers and instrument makers. The Castle's famous **Kunstkammer** contained scientific instruments, curiosities, and astronomical devices.
 
@@ -239,7 +247,7 @@ Emperor **Rudolf II** (1552–1612) moved the imperial capital from Vienna to Pr
 <a id="belvedere"></a>
 ### Queen Anne's Summer Palace (Belvedere): where Tycho and Kepler observed the sky
 
-**Location:** Royal Garden, north of Prague Castle | **Time needed:** 20 min
+**Location:** Royal Garden, north of Prague Castle | **Time needed:** 20 min (exterior and garden only) | [View on map](https://jan-safar.github.io/prague-pnt-guide/#belvedere)
 
 This exquisite Renaissance palace – considered the purest example of Italian Renaissance architecture north of the Alps – served as Rudolf II's **astronomical observatory**. The emperor converted its first floor for the purpose, and both Tycho Brahe and Kepler observed from here. The palace features a distinctive copper roof shaped like an inverted ship's keel, an arcaded gallery with 36 columns and the famous **Singing Fountain** (1562–68) in the garden, whose basin produces a bell-like tone when water strikes it.
 
@@ -250,7 +258,7 @@ The Royal Garden is **free and open daily 10 AM – 7 PM from April through Octo
 <a id="novy-svet"></a>
 ### Nový Svět: Tycho Brahe's first Prague home
 
-**Location:** Nový Svět 76/1 ('U Zlatého noha' - At the Golden Roc) | **Walking time from Castle:** 10 min
+**Location:** Nový Svět 76/1 ('U Zlatého noha' - At the Golden Roc) | **Walking time from Castle:** 10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#novy-svet)
 
 This narrow, cobblestoned street is one of Prague's most enchanting corners – a cluster of small, colourful houses with a village-like atmosphere, strikingly quiet compared to the Castle crowds just minutes away. At **No. 1**, a commemorative plaque placed in 1901 marks the house where **Tycho Brahe first lived** when he arrived in Prague in 1600. The house proved too small for his massive instruments, so Rudolf II arranged larger quarters. The building now operates as the *Aparthotel Tycho de Brahe*, offering luxury apartments – you can literally sleep where Tycho slept.
 
@@ -261,7 +269,7 @@ If walking between the Royal Garden and Nový Svět, consider descending through
 <a id="brahe-kepler"></a>
 ### The Brahe–Kepler monument and Kepler 'Gymnázium' at Pohořelec
 
-**Location:** Pohořelec square, Hradčany | **Walking time from Nový Svět:** 5 min
+**Location:** Pohořelec square, Hradčany | **Walking time from Nový Svět:** 5 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#brahe-kepler)
 
 A **bronze monument** by sculptor Josef Vajce (1984) depicts Tycho Brahe and Johannes Kepler. Two figures who remade humanity's understanding of the cosmos – a Danish nobleman and a German mathematician – united by the data and the questions that bound them. The statue stands freely in the Pohořelec area, accessible 24/7, with no interpretive signage (so now you know its story).
 
@@ -271,12 +279,14 @@ Adjacent stands the **Gymnázium Jana Keplera** (Parléřova 118/2), one of the 
 
 *Perfect lunch stop: Walk 5 minutes to the Strahov Monastic Brewery (Strahovské nádvoří 301) for microbrewed beer and Czech cuisine, before visiting the monastery library next door.*
 
+[Back to routes](#choose-your-adventure)
+
 ## Part 5 – Strahov and Petřín: libraries, globes and an observatory
 
 <a id="strahov"></a>
 ### Strahov Monastery Library: Renaissance astronomy in manuscript and globe
 
-**Location:** Strahovské nádvoří 1/132 | **Walking time from Pohořelec:** 5 min | **Time needed:** 30 min
+**Location:** Strahovské nádvoří 1/132 | **Walking time from Pohořelec:** 5 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#strahov)
 
 The Premonstratensian monastery's two magnificent library halls – the Theological Hall (1671) and the Philosophical Hall (1783) – contain **~200,000 volumes** spanning theology, astronomy, mathematics, geography and natural philosophy. For PNT visitors, the highlights are the **17th-century celestial and terrestrial globes** by Willem Janszoon Blaeu's workshop, displayed in both halls and a **14th-century star atlas from Venice** possibly from the collection of Emperor Charles IV or the Bohemian humanist **Bohuslav Hasištejnský z Lobkovic** (1461–1510), who assembled one of Central Europe's finest collections of astronomical texts, instruments and maps.
 
@@ -285,7 +295,7 @@ Visitors view the halls from doorways (climate protection for the books). Specia
 <a id="stefanik"></a>
 ### Štefánik Observatory: telescopes on Petřín Hill
 
-**Location:** Strahovská 205, Petřín Hill | **Walking time from Strahov:** 15–20 min through gardens
+**Location:** Strahovská 205, Petřín Hill | **Walking time from Strahov:** 15–20 min through gardens | [View on map](https://jan-safar.github.io/prague-pnt-guide/#stefanik)
 
 Named after **Milan Rastislav Štefánik** (1880–1919) – Slovak astronomer, co-founder of Czechoslovakia and French Army general who studied astronomy at Charles University and observed from the Paris-Meudon Observatory – this public observatory has welcomed visitors since 1929. Three domes house telescopes including a modern Maksutov-Cassegrain reflector for public observing sessions. Daytime visitors can observe sunspots and prominences; evening sessions (weather permitting) reveal the Moon, planets, star clusters and galaxies.
 
@@ -295,6 +305,8 @@ An interactive exhibition covers astronomy, meteorites (including samples from t
 
 **PNT connection:** The observatory continues Prague's centuries-long tradition of watching the sky.
 
+[Back to routes](#choose-your-adventure)
+
 ## Part 6 – Nové Město (New Town): Doppler, Einstein and Mach
 
 *From Petřín, descend to Újezd and cross to the New Town via most Legií. Alternatively, take tram 22 from Pohořelec or Újezd to Národní třída.*
@@ -302,7 +314,7 @@ An interactive exhibition covers astronomy, meteorites (including samples from t
 <a id="cafe-louvre"></a>
 ### Café Louvre: Einstein's regular table
 
-**Location:** Národní 1987/22 (first floor – up a staircase from the street) | **Walking time from Újezd:** 10 min
+**Location:** Národní 1987/22 (first floor – up a staircase from the street) | **Walking time from Újezd:** 10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#cafe-louvre)
 
 Founded in 1902, this elegant Belle Époque café was Einstein's regular haunt during his Prague years. He met here with mathematician **Georg Pick** and astronomer **Vladimír Heinrich**, discussing the problems of gravity and light that he was wrestling with at his institute. Franz Kafka and Karel Čapek were also patrons. The café was destroyed under communism and magnificently restored in the 1990s, with cream walls, neo-Rococo plasterwork, high ceilings and a billiards room with five tables. The café proudly advertises its Einstein and Kafka heritage. Excellent Viennese-style pastries, Czech cuisine and afternoon tea (4–6 PM). **Open Mon–Fri 8 AM – 11:30 PM, Sat–Sun from 9 AM.** No reservations needed for café seating.
 
@@ -311,21 +323,21 @@ Founded in 1902, this elegant Belle Époque café was Einstein's regular haunt d
 <a id="doppler"></a>
 ### Doppler's Prague: the plaque at Karlovo náměstí and his home in Old Town
 
-**Doppler plaque at Charles Square** | Karlovo náměstí 6/20, Prague 2 | **Walking time from Café Louvre:** 10 min south
+**Doppler plaque at Charles Square** | Karlovo náměstí 6/20, Prague 2 | **Walking time from Café Louvre:** 10 min south | [View on map](https://jan-safar.github.io/prague-pnt-guide/#doppler)
 
 A **white marble plaque (1903)** on the façade of the Municipal Court building notes that in the house which once stood on this spot, Christian Doppler lived and researched before publishing his world-famous principle. The original **Prague Polytechnic** building where Doppler held his professorship (1841–1847) has been demolished; the plaque marks its approximate location. Today's **Czech Technical University (ČVUT)** – direct successor of that Polytechnic – maintains its main campus at **Karlovo náměstí 13**, just steps away, on the corner with Resslova street.
 
 <a id="doppler-home"></a>
-**Doppler's family home** | U Obecního Dvora 7/799, Prague 1 (Old Town) | *Best visited as part of the Old Town walk*
+**Doppler's family home** | U Obecního Dvora 7/799, Prague 1 (Old Town) | *Best visited as part of the Old Town walk* | [View on map](https://jan-safar.github.io/prague-pnt-guide/#doppler-home)
 
 A **bronze plaque with relief portrait** (2006) marks the house where Doppler lived with his family from 1843 to 1847. This is where he came home after lecturing at the Polytechnic and after his historic 1842 presentation. The sculptor Ellen Jilemnicka created the memorial. The building is a private residence; the plaque is visible from the street.
 
 **PNT connection:** The Doppler shift of GNSS L-band carrier signals is a primary observable used in velocity determination and carrier-phase positioning.
 
-<a id="vicnicna"></a>
+<a id="vinicna"></a>
 ### Viničná 7: the building where Mach and Einstein both worked
 
-**Location:** Viničná 1594/7, Prague 2 (Albertov campus) | **Walking time from Karlovo náměstí:** 10 min south
+**Location:** Viničná 1594/7, Prague 2 (Albertov campus) | **Walking time from Karlovo náměstí:** 10 min south | [View on map](https://jan-safar.github.io/prague-pnt-guide/#vinicna)
 
 This university building has an extraordinary double claim: **Ernst Mach** directed the Physics Institute here from 1879 to 1895 (he chose the location to escape Old Town vibrations that disturbed his shock-wave experiments) and **Albert Einstein** worked here as Professor of Theoretical Physics from 1911 to 1912. It was in this building that Einstein advanced his work on the equivalence principle and the gravitational deflection of light.
 
@@ -334,6 +346,8 @@ Einstein published **11 papers** during his 16 months in Prague, **six on gravit
 A **gilded relief of Einstein's head** is mounted in the building's vestibule. As an active university building (Faculty of Science, Charles University), lobby access may be possible during working hours but is not guaranteed for casual visitors. The exterior is freely viewable, though the building's unremarkable façade belies its scientific significance.
 
 **PNT connection:** General relativity predicts that clocks in orbit (at lower gravitational potential) run faster by ~45 μs/day; special relativity predicts they run slower by ~7 μs/day due to orbital velocity. To compensate for the net **38 μs/day shift**, GNSS satellite clocks are set to run slower on the ground before launch. Without Einstein's Prague work, GNSS would accumulate ~11 km of positioning error daily.
+
+[Back to routes](#choose-your-adventure)
 
 ## Part 7 – Holešovice: EUSPA and the National Technical Museum
 
@@ -378,6 +392,8 @@ Not a formal museum stop, but unmissable for the view and the history. From Letn
 
 The **Letná Beer Garden** (Letenský zámeček) under the chestnut trees is one of Prague's great pleasures on a warm May evening. Pilsner Urquell on draught, sausages and that view.
 
+[Back to routes](#choose-your-adventure)
+
 <a id="einstein-apartment"></a>
 ## Part 8 – Smíchov: Einstein's apartment
 
@@ -385,13 +401,15 @@ The **Letná Beer Garden** (Letenský zámeček) under the chestnut trees is one
 
 ### Einstein's home at Lesnická 7
 
-**Location:** Lesnická 1215/7 (formerly Třebízského street), Prague 5 – Smíchov
+**Location:** Lesnická 1215/7 (formerly Třebízského street), Prague 5 – Smíchov | [View on map](https://jan-safar.github.io/prague-pnt-guide/#einstein-apartment)
 
 Einstein lived here with his wife Mileva, sons Hans Albert and Eduard, and a maid in a three-bedroom apartment. The building was newly constructed, and Einstein appreciated the novelty of electricity and an elevator – luxuries compared to Zurich. A **plaque with a life-size bronze sculpture of Einstein's head** marks the façade (unveiled 1979). The building still stands on the west bank of the Vltava.
 
 Einstein walked across what is now Palacký Bridge (Palackého most) each day to reach his institute at Viničná 7 – a pleasant 20-minute stroll you can replicate. He wrote warmly about Prague's beauty but found the city's ethnic tensions between Czechs and Germans dispiriting.
 
 *Nearby: Café Savoy (Vítězná 5), an elegant Art Nouveau café near the river, is a 10-minute walk – excellent for breakfast or a late-afternoon stop.*
+
+[Back to routes](#choose-your-adventure)
 
 <a id="lamarr"></a>
 ## Part 9 – A Prague footnote: Hedy Lamarr and the birth of spread spectrum
@@ -401,32 +419,6 @@ Though not a Prague resident, **Hedy Lamarr** (1914–2000) has a tangible conne
 A decade later, Lamarr and composer George Antheil patented a **frequency-hopping spread spectrum** (FHSS) system (US Patent 2,292,387, 1942) for torpedo guidance – using 88 frequencies to resist jamming. The technology was not immediately adopted, but FHSS became foundational to modern telecommunications. **GPS's CDMA signal structure, Wi-Fi and Bluetooth** all descend from the spread spectrum principle. Lamarr received the  Electronic Frontier Foundation Pioneer Award (1997) and was posthumously inducted into the United States National Inventors Hall of Fame (2014).
 
 Barrandov Studios, founded by Miloš Havel (uncle of President Václav Havel), remain active to this day, hosting international productions. 
-
-## What's open vs. plaque-only: a quick reference
-
-**TODO:** Possibly to be replaced with an interactive map
-
-| Site | Inside visit? | Plaque/exterior? | Notes |
-|------|:---:|:---:|-------|
-| Astronomical Clock / Town Hall Tower | ✅ | ✅ | Tower open daily; ~450 CZK |
-| Týn Church (Brahe tomb) | ✅ | – | Limited hours: Tue–Sat ~10–1, 3–5 |
-| Klementinum Tower & Library | ✅ | – | Guided tour only; book ahead; ~404 CZK |
-| Karolinum (Doppler 1842 site) | Occasional exhibitions | ✅ | Ceremonial university building |
-| Mach plaque, Ovocný trh 7 | – | ✅ | Freely visible from street |
-| Kepler's house, Karlova 4 | Courtyard only | ✅ | Museum closed 2017; plaque + fountain remain |
-| Fanta Salon, Old Town Sq. 17 | – | ✅ | Plaque on exterior |
-| Doppler plaque, Karlovo nám. | – | ✅ | Freely visible |
-| Doppler home, U Obecního Dvora 7 | – | ✅ | Private building; plaque visible |
-| Einstein institute, Viničná 7 | Lobby maybe | ✅ | Active university; bust inside vestibule |
-| Einstein apartment, Lesnická 7 | – | ✅ | Residential; plaque with bronze head |
-| Café Louvre | ✅ | – | Operating café; excellent |
-| Brahe house, Nový Svět 1 | – | ✅ | Now an aparthotel |
-| Brahe–Kepler monument | ✅ (outdoor) | – | Free, 24/7 |
-| Queen Anne's Summer Palace | Garden ✅; interior only during exhibitions | ✅ | Garden open daily Apr–Oct, free |
-| Strahov Library | ✅ (from doorway) | – | Daily 9–5; ~190 CZK |
-| Štefánik Observatory | ✅ | – | Tue–Sun; ~100 CZK; evening sessions weather-dependent |
-| National Technical Museum | ✅ | – | Tue–Sun 9–6; ~250 CZK; 10 min from hotel |
-| EUSPA HQ | – | ✅ | ~10 min from hotel; not open to public |
 
 ## Transport, weather, and practicalities
 

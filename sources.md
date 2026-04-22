@@ -6,11 +6,8 @@ This document lists the sources used in researching the Prague PNT Walking Guide
 
 A few details are particularly worth double-checking on the ground before distribution:
 
-- **Einstein's apartment address**: sources variously give the street as Třebízského (historical) or Lesnická (current), and the number as 7 or 1215/7 (land-registry number). Verify the plaque's current street address in person.
-- **Doppler's home at U Obecního Dvora 7**: the plaque's existence is confirmed by historyofscience.cz, but the street number should be verified on the ground.
 - **Týn Church opening hours**: these shift seasonally and can be curtailed by services; confirm on arrival.
 - **The Doppler 1842 presentation venue**: the Royal Bohemian Society of Sciences met at the Karolinum, but some sources place specific lectures at other university buildings. The core facts — Prague, 25 May 1842, six attendees — are solid; the exact room is less certain.
-- **Petřín funicular reopening date**: closure was in effect from September 2024; reopening was expected "summer 2026 at earliest." Check the DPP (Prague Public Transit) website closer to the date.
 
 The two Charles University physics faculty pages (`utf.mff.cuni.cz/Relativity/`) are the most authoritative sources in this list — written by practising physicists at Einstein's and Mach's own university. The `historyofscience.cz` catalogue entries are also well-curated, with photographs of plaques and precise locations.
 
@@ -52,6 +49,7 @@ The two Charles University physics faculty pages (`utf.mff.cuni.cz/Relativity/`)
 - Collin College, *Christian Andreas Doppler* biography — <http://faculty.collin.edu/ebock/Scientists/More%20Scientists%20page%203/Doppler-bio.pdf>
 - Historyofscience.cz, *Commemorative Plaque to Christian Doppler in Prague* — <https://historyofscience.cz/katalog_en/tisk.php?id=556>
 - Historyofscience.cz, *Christian Doppler Memorial Plaque in the Old Town* — <https://www.historyofscience.cz/katalog_en/index.php?id=557>
+- Galileo Unbound, *A Commotion in the Stars: The History of the Doppler Effect* — <https://galileo-unbound.blog/2020/03/02/a-commotion-in-the-stars-the-legacy-of-christian-doppler/>
 
 ## Albert Einstein
 
