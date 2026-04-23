@@ -1,6 +1,6 @@
 # Contributing to the Prague PNT Walking Guide
 
-Thank you for your interest in improving this guide! Contributions from the PNT/GNSS community — and from Prague locals — are especially welcome.
+Thank you for your interest in improving this guide! Contributions from the PNT/GNSS community – and from Prague locals – are especially welcome.
 
 ## How to contribute
 
@@ -16,7 +16,7 @@ If you spot an error (wrong address, incorrect date, outdated opening hours, mis
 If you know of a PNT-relevant site in Prague not yet covered (a plaque, a building, a museum exhibit, a person with a Prague connection), please open an issue or PR with:
 
 - The site name and exact address
-- Its connection to PNT, GNSS, astronomy, geodesy, timekeeping, or related fields
+- Its connection to PNT, GNSS, astronomy, geodesy, timekeeping or related fields
 - Whether it's visitable inside or exterior/plaque only
 - A source or reference
 
@@ -38,9 +38,9 @@ Translations of `guide.md` into other languages are welcome. Please name transla
 To add or correct a location on the map, edit `places.geojson`. Each feature needs:
 
 - `geometry`: point coordinates as `[longitude, latitude]`
-- `properties`: `name`, `theme`, `description`, and optionally `guide_section` and `visit_type`
+- `properties`: `id`, `name`, `theme`, `description`, `visit_type` and `marker-color`
 
-GitHub renders GeoJSON files as interactive maps, so you can preview your changes.
+GitHub renders GeoJSON files as interactive maps, so you can preview your changes. The interactive map at `index.html` reads from `places.geojson`, so any updates there will automatically reflect on the map.
 
 ## Style guidelines
 
