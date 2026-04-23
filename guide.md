@@ -365,7 +365,7 @@ EUSPA is not routinely open to visitors (it holds public Open Days in November),
 **PNT connection:** Direct and obvious. RTCM standards for differential GNSS and integrity monitoring directly interface with Galileo and EGNOS services managed from this building.
 
 <a id="tech-museum"></a>
-### National Technical Museum: Kepler's instruments, Bürgi's sextants, 5,000 years of timekeeping
+### National Technical Museum: Kepler's instruments, Bürgi's sextants, spectacular transport hall
 
 **Location:** Kostelní 42, Prague 7 – Holešovice | **Walking time from Mama Shelter:** ~10–12 min | **Time needed:** 1.5–2 hours | [View on map](https://jan-safar.github.io/prague-pnt-guide/#tech-museum)
 
