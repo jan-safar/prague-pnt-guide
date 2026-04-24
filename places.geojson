@@ -51,6 +51,30 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.43042669463104, 50.10402227025772] },
+      "properties": {
+        "id": "stromovka",
+        "name": "Stromovka Park",
+        "theme": "Morning run — Prague's largest central park, former royal game preserve",
+        "description": "Královská obora, Prague 7. Flat paths, mature trees, ~5 min from hotel.",
+        "visit_type": "free / exterior",
+        "marker-color": "#27ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.427615551192448, 50.10560993463955] },
+      "properties": {
+        "id": "prague-planetarium",
+        "name": "Prague Planetarium",
+        "theme": "First LED planetarium in Europe, 23.5-metre dome",
+        "description": "Královská obora 233, Prague 7. Shows in Czech and English. Book well in advance.",
+        "visit_type": "interior visit",
+        "marker-color": "#2980b9"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [14.420713145826156, 50.08703018038325] },
       "properties": {
         "id": "orloj",

@@ -18,6 +18,7 @@ Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava rive
 - **EUSPA HQ:** ~10 min walk (Janovského 438/2) 
 - **National Technical Museum:** ~10–12 min walk (Kostelní 42)
 - **Letná Park & beer garden:** ~10 min walk
+- **Stromovka Park & Planetarium:** ~5 min walk – Prague's largest central park, ideal for a morning jog; the recently renovated Planetarium at the park's eastern edge
 - **Old Town Square:** ~25 min walk across Štefánik Bridge, or ~10 min by tram (line 17 from Veletržní Palác)
 - **Prague Castle / Hradčany:** ~10 min by tram (lines 1, 8 or 25 from Strossmayerovo náměstí to Hradčanská), then ~20 min walk through the Royal Garden
 
@@ -349,9 +350,9 @@ A **gilded relief of Einstein's head** is mounted in the building's vestibule. A
 
 [Back to routes](#choose-your-adventure)
 
-## Part 7 – Holešovice: EUSPA and the National Technical Museum
+## Part 7 – Holešovice: your home district
 
-*These stops are the closest to your meeting venue – both within walking distance of Mama Shelter Prague. Consider visiting after a meeting day or during a lunch break.*
+*Everything in this section is within walking distance of Mama Shelter Prague – no tram needed.*
 
 <a id="euspa"></a>
 ### EUSPA: where Galileo is managed
@@ -391,6 +392,20 @@ Additional halls cover **transport** (spectacular hall with locomotives, aircraf
 Not a formal museum stop, but unmissable for the view and the history. From Letná's terrace you look south across the Vltava at the Old Town, Charles Bridge, Prague Castle and Petřín – the entire PNT landscape of this guide laid out before you. From **1891 to the early 1920s**, a cannon was fired from the Letná ridge at noon each day, triggered when the Klementinum tower's flag was spotted.
 
 The **Letná Beer Garden** (Letenský zámeček) under the chestnut trees is one of Prague's great pleasures on a warm May evening. Pilsner Urquell on draught, sausages and that view.
+
+<a id="stromovka"></a>
+### Stromovka Park: your morning run
+
+**Location:** Královská obora, Prague 7 | **Walking time from Mama Shelter:** ~5 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#stromovka)
+
+Forget the gym – lace up your trainers and do a morning loop through Stromovka before meetings. Prague's largest central park was a royal game preserve from the 13th century, and it still feels like it: flat paths winding through mature oaks and chestnuts, a lake, almost no one around at 7 AM. A comfortable loop is about 3–4 km. The northern end connects to the Troja Chateau, Prague Zoo and the Botanical Garden if you want a longer run or a weekend excursion.
+ 
+<a id="planetarium"></a>
+### Prague Planetarium: the universe under a 23.5-metre dome
+ 
+**Location:** Královská obora 233, Prague 7 (eastern edge of Stromovka Park) | **Walking time from Mama Shelter:** ~10 min | [View on map](https://jan-safar.github.io/prague-pnt-guide/#prague-planetarium)
+ 
+Recently reopened after a major renovation, Prague's Planetarium is now the **first LED planetarium in Europe** – 45 million diodes across a 23.5-metre dome, producing visuals that no projector can match. Shows cover the solar system, deep space and current astronomical topics; some are in English. Not strictly PNT, but if you've spent the day thinking about satellite orbits, watching them projected overhead at this resolution is a fitting way to end it. **Book well in advance** – popular shows sell out weeks ahead.
 
 [Back to routes](#choose-your-adventure)
 
