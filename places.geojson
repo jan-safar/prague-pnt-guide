@@ -255,7 +255,7 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [14.396084176806163, 50.08864792955091] },
+      "geometry": { "type": "Point", "coordinates": [14.396102399188086, 50.08849605442476] },
       "properties": {
         "id": "uvoz-restaurant",
         "name": "ÚVOZ Restaurant",
