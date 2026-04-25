@@ -20,7 +20,7 @@ Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava rive
 - **Letná Park & beer garden:** ~15 min walk
 - **Stromovka Park & Planetarium:** ~5 min walk – Prague's largest central park, ideal for a morning jog; the recently renovated Planetarium at the park's eastern edge
 - **Old Town Square:** ~35 min walk across Štefánik Bridge, or ~10 min by tram (line 17 from Veletržní Palác)
-- **Prague Castle / Hradčany:** ~10 min by tram (lines 1, 8 or 25 from Strossmayerovo náměstí to Hradčanská), then ~20 min walk through the Royal Garden
+- **Prague Castle / Hradčany:** ~10 min by tram (lines 1, 8, 25 or 26 from Strossmayerovo náměstí to Hradčanská), then ~20 min walk through the Royal Garden
 
 **A suggested rhythm for your three meeting days:** Use early mornings or evenings for the Holešovice cluster – the Technical Museum stays open until 6 PM, Letná Park is glorious at sunset and EUSPA HQ can be glimpsed in passing. Save a half-day or evening for the Old Town cluster across the river. The Old Town is best reached by tram – a scenic 10-minute ride drops you at Staroměstská.
 
@@ -57,7 +57,9 @@ A relaxed half-day combining Prague's greatest hits with science highlights. **F
 
 ### Full-day PNT heritage route (~7-8 hours)
  
-The complete pilgrimage for the dedicated science walker. This is an ambitious day – feel free to trim stops according to your interests and stamina. The [National Technical Museum](#tech-museum) and [Letná Park](#letna) are best saved for an after-hours visit from the hotel (see above). **From the hotel, take tram 17 from Veletržní Palác to Staroměstská (~10 min).**
+The complete pilgrimage for the dedicated science walker. This is an ambitious day – feel free to trim stops according to your interests and stamina. The [National Technical Museum](#tech-museum) and [Letná Park](#letna) are best saved for an after-hours visit from the hotel (see above).
+
+**Take tram 17 from Veletržní Palác to Staroměstská (~10 min).**
 
 **Tip:** If you plan to visit the Klementinum (stop 3), consider starting the walk there – the guided tour has fixed time slots and limited capacity, and the 9:00 or 9:30 AM slots are half-price. Book online in advance.
 
