@@ -4,12 +4,11 @@ This document lists the sources used in researching the Prague PNT Walking Guide
 
 ## Verification notes
 
-A few details are particularly worth double-checking on the ground before distribution:
+Details particularly worth double-checking on the ground:
 
 - **Týn Church opening hours**: these shift seasonally and can be curtailed by services; confirm on arrival.
-- **The Doppler 1842 presentation venue**: the Royal Bohemian Society of Sciences met at the Karolinum, but some sources place specific lectures at other university buildings. The core facts — Prague, 25 May 1842, six attendees — are solid; the exact room is less certain.
 
-The two Charles University physics faculty pages (`utf.mff.cuni.cz/Relativity/`) are the most authoritative sources in this list — written by practising physicists at Einstein's and Mach's own university. The `historyofscience.cz` catalogue entries are also well-curated, with photographs of plaques and precise locations.
+The Charles University physics faculty pages (`utf.mff.cuni.cz/Relativity/`) are the most authoritative sources in this list — written by practising physicists at Einstein's and Mach's own university. The `historyofscience.cz` catalogue entries are also well-curated, with photographs of plaques and precise locations.
 
 ---
 
