@@ -70,7 +70,7 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 7. **[Prague Castle](#prague-castle)** – Royal Garden and **[Queen Anne's Summer Palace](#belvedere)** (30 min)
 8. **[Nový Svět](#novy-svet)** – Tycho Brahe's house (15 min)
 9. **[Brahe–Kepler monument](#brahe-kepler)** at Pohořelec (10 min)
-10. **[Strahov Library](#strahov)** (30 min), then lunch at **Strahov Monastic Brewery** or **ÚVOZ Restaurant**; beer at **U Černého Vola** - real locals' pick
+10. <a id="strahov-brewery"></a><a id="uvoz-restaurant"></a><a id="u-cerneho-vola"></a>**[Strahov Library](#strahov)** (30 min), then lunch at [Strahov Monastic Brewery](https://jan-safar.github.io/prague-pnt-guide/#strahov-brewery) or [ÚVOZ Restaurant](https://jan-safar.github.io/prague-pnt-guide/#uvoz-restaurant); beer at [U Černého Vola](https://jan-safar.github.io/prague-pnt-guide/#u-cerneho-vola) - real locals' pick
 11. Walk to **[Štefánik Observatory](#stefanik)** on Petřín Hill (20 min walk + 30–45 min visit)
 12. Descend to Újezd, then across the river to **[Café Louvre](#cafe-louvre)** for afternoon coffee (Einstein's café)
 13. **[Doppler plaque](#doppler)** at Karlovo náměstí (15 min)

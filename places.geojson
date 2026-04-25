@@ -243,6 +243,42 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.388566758301367, 50.08708389035474] },
+      "properties": {
+        "id": "strahov-brewery",
+        "name": "Strahov Monastic Brewery",
+        "theme": "Microbrewed beer and Czech cuisine in a 12th-century monastery",
+        "description": "Strahovské nádvoří 301/10. Daily 10 AM – 10 PM. Courtyard garden in summer.",
+        "visit_type": "eating & drinking",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.396084176806163, 50.08864792955091] },
+      "properties": {
+        "id": "uvoz-restaurant",
+        "name": "ÚVOZ Restaurant",
+        "theme": "Modern Czech cuisine near Prague Castle",
+        "description": "Úvoz 169/6. Intimate wood-panelled rooms, seasonal menu. Book ahead.",
+        "visit_type": "eating & drinking",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.391835787769633, 50.0882668063229] },
+      "properties": {
+        "id": "u-cerneho-vola",
+        "name": "U Černého Vola (The Black Ox)",
+        "theme": "Refreshment – real locals' pick since 1726",
+        "description": "Loretánské nám. 107/1. Old-school beerhall, Kozel and Pilsner Urquell on tap. Daily 10 AM – 10 PM.",
+        "visit_type": "eating & drinking",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [14.397932743239958, 50.081343509966125] },
       "properties": {
         "id": "stefanik",
