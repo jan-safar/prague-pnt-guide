@@ -16,7 +16,7 @@ Prague is where the foundational science of satellite navigation was forged:
 - **Christian Doppler** (1842) – announced the Doppler effect to six people at the Royal Bohemian Society of Sciences in Prague; every GNSS receiver uses this principle
 - **Ernst Mach** (1867–1895) – 28 years challenging Newtonian absolutes, shaping Einstein's thinking
 - **Albert Einstein** (1911–1912) – worked on the equivalence principle and gravitational light deflection in Prague; without general relativity, GNSS clocks would drift ~38 μs/day
-- **Hedy Lamarr** (1933) — starred in the film *Ecstasy* shot at Prague's Barrandov Studios; later co-invented spread-spectrum signal transmission, the principle behind GPS' CDMA signal structure
+- **Hedy Lamarr** (1933) – starred in the film *Ecstasy* shot at Prague's Barrandov Studios; later co-invented spread-spectrum signal transmission, the principle behind GPS' CDMA signal structure
  
 The guide also covers Prague's **Astronomical Clock** (1410), the **Prague Meridian**, the **Klementinum observatory**, **EUSPA** and more – all with a focus on their connections to PNT.
 
@@ -48,7 +48,7 @@ Areas where contributions would be especially valuable:
 - **Translations** into Czech, German, French or other languages
 - **Additional PNT-relevant sites** in or near Prague
 - **Improved walking directions** between stops
-- **More decent places to eat and drink** along the route
+- **Your favourite places to eat and drink** along the route
 
 ## Licence
 
