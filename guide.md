@@ -6,7 +6,7 @@
 
 You are meeting in Prague to discuss the future of GNSS standards – and there is no more fitting city on Earth to do so. **Prague is where the foundational science of satellite navigation was forged**, across four centuries of continuous discovery. **Tycho Brahe**'s meticulous observations of planetary positions (1599–1601) gave **Johannes Kepler** the data to derive his laws of orbital mechanics – the very equations that predict where every GNSS satellite is at every moment. **Christian Doppler** stood before six colleagues in 1842 and announced the frequency shift that bears his name – the Doppler effect is how every GNSS receiver measures satellite range-rate. **Albert Einstein** worked here in 1911–1912 on the equivalence principle and gravitational deflection of light, cornerstones of general relativity without which GNSS clocks would drift by ~38 microseconds per day – rendering positioning useless. **Ernst Mach** spent 28 years here challenging Newtonian absolutes, work that profoundly shaped Einstein's thinking.
 
-And the city's PNT heritage extends far beyond these five giants. The Prague Astronomical Clock has tracked the Sun, Moon and zodiac since 1410. The Klementinum observatory defined Prague's noon for over 80 years. Jost Bürgi built precision clocks and independently invented logarithms at Rudolf II's court. And today, **EUSPA – the EU agency that manages Galileo – is headquartered at Janovského 438/2, a ten-minute walk from your meeting venue at Mama Shelter Prague (Veletržní 1502/20)**. From medieval timekeeping to 21st-century GNSS, Prague's story is the story of positioning, navigation and timing – and your meeting is taking place at the heart of it.
+And the city's PNT heritage extends far beyond these five giants. The Prague Astronomical Clock has tracked the Sun and Moon against the zodiac since 1410. Jost Bürgi built precision clocks and independently invented logarithms at Rudolf II's court. The Klementinum observatory defined Prague's noon for over 80 years. And today, **EUSPA – the EU agency that manages Galileo – is headquartered at Janovského 438/2, a ten-minute walk from your meeting venue at Mama Shelter Prague**. From medieval timekeeping to 21st-century GNSS, Prague's story is the story of positioning, navigation and timing – and your meeting is taking place at the heart of it.
 
 This guide organizes Prague's PNT heritage into a walkable itinerary by neighbourhood, so you can follow a logical route on foot. Each stop highlights its connection to the science that makes your work possible. Late May in Prague offers long daylight (sunrise ~5:05 AM, sunset ~8:55 PM), temperatures around **19–22°C**, and gardens in full bloom. Your meetings coincide with the prestigious Prague Spring International Music Festival – book a concert if you can.
 
@@ -16,10 +16,10 @@ This guide organizes Prague's PNT heritage into a walkable itinerary by neighbou
 Your venue sits in **Holešovice (Prague 7)**, in the loop where the Vltava river bends. Holešovice has its own place in the PNT story, and it offers easy access to the rest of the city. [View on map](https://jan-safar.github.io/prague-pnt-guide/#orientation)
 
 - **EUSPA HQ:** ~10 min walk (Janovského 438/2) 
-- **National Technical Museum:** ~10–12 min walk (Kostelní 42)
-- **Letná Park & beer garden:** ~10 min walk
+- **National Technical Museum:** ~15 min walk (Kostelní 42)
+- **Letná Park & beer garden:** ~15 min walk
 - **Stromovka Park & Planetarium:** ~5 min walk – Prague's largest central park, ideal for a morning jog; the recently renovated Planetarium at the park's eastern edge
-- **Old Town Square:** ~25 min walk across Štefánik Bridge, or ~10 min by tram (line 17 from Veletržní Palác)
+- **Old Town Square:** ~35 min walk across Štefánik Bridge, or ~10 min by tram (line 17 from Veletržní Palác)
 - **Prague Castle / Hradčany:** ~10 min by tram (lines 1, 8 or 25 from Strossmayerovo náměstí to Hradčanská), then ~20 min walk through the Royal Garden
 
 **A suggested rhythm for your three meeting days:** Use early mornings or evenings for the Holešovice cluster – the Technical Museum stays open until 6 PM, Letná Park is glorious at sunset and EUSPA HQ can be glimpsed in passing. Save a half-day or evening for the Old Town cluster across the river. The Old Town is best reached by tram – a scenic 10-minute ride drops you at Staroměstská.
