@@ -74,7 +74,7 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 11. Walk to **[Štefánik Observatory](#stefanik)** on Petřín Hill (20 min walk + 30–45 min visit)
 12. Descend to Újezd, then across the river to **[Café Louvre](#cafe-louvre)** for afternoon coffee (Einstein's café)
 13. **[Doppler plaque](#doppler)** at Karlovo náměstí (15 min)
-14. **[Viničná 7](#vinicna)** – Mach/Einstein institute (10 min)
+14. Optional: **[Viničná 7](#vinicna)** – Mach/Einstein institute (10 min)
 15. Optional: across Palacký Bridge to **[Einstein's apartment](#einstein-apartment)** (20 min)
 16. Return to hotel by tram, e.g. line 12 from Anděl to Strossmayerovo náměstí, or line 6 from Karlovo náměstí to Veletržní palác (20 min)
 
