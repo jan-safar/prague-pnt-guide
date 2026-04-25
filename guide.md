@@ -33,8 +33,8 @@ The detailed guide below (Parts 1–9) covers the many PNT-related sites in Prag
 You've just finished a meeting day. You're in Holešovice. What's walking distance?
 
 1. **[EUSPA HQ](#euspa)** – 10 min walk. Snap a group photo outside the building where Galileo is managed.
-2. **[National Technical Museum](#tech-museum)** – 10 min walk, **open until 6 PM**. Kepler and Bürgi's original instruments, the Measuring Time exhibition, a touchable meteorite, a spectacular transport hall. Allow 1–1.5 hours.
-3. **[Letná Park](#letna)** – 10 min walk. The high terrace overlooking the Vltava with the city's best sunset panorama. From 1891 to the early 1920s, a cannon was fired from the Letná ridge daily at noon in response to the Klementinum tower's flag signal – Prague's pre-radio time service. Beer garden under the chestnut trees.
+2. **[National Technical Museum](#tech-museum)** – 10 min walk from EUSPA, **open until 6 PM**. Kepler and Bürgi's original instruments, the Measuring Time exhibition, a touchable meteorite, a spectacular transport hall. Allow 1–1.5 hours.
+3. **[Letná Park](#letna)** – 5 min walk from NTM. The high terrace overlooking the Vltava with the city's best sunset panorama. From 1891 to the 1920s, a cannon was fired from the Letná ridge daily at noon in response to the Klementinum tower's flag signal – Prague's pre-radio time service. Beer garden under the chestnut trees.
 
 ### Half-day for light explorers (~3–4 hours)
 
@@ -49,22 +49,22 @@ A relaxed half-day combining Prague's greatest hits with science highlights. **F
 5. **[Klementinum](#klementinum)** – guided tour of Baroque Library, Meridian Hall and Astronomical Tower (50 min; book in advance)
 6. **[Kepler's house](#kepler-house)** – plaque and courtyard fountain (10 min)
 7. **[Charles Bridge](#charles-bridge)** – cross at leisure, enjoy the views and statues (20 min)
-8. Meal in Malá Strana, then optional walk up Nerudova to Prague Castle, or return via Kampa and Národní třída to **[Café Louvre](#cafe-louvre)** for Einsteinian cake and coffee
+8. Meal in Malá Strana, then optional walk up Nerudova to **[Prague Castle](#prague-castle)**, or return via Kampa and Národní třída to **[Café Louvre](#cafe-louvre)** for Einsteinian cake and coffee
 
 *~3 km walking, all flat except the optional Castle climb. Return to Mama Shelter by tram from Malostranská, Hradčanská or Národní divadlo (National Theatre).*
 
-**Tip:** If you'd rather start high and walk downhill, take the tram to Hradčanská (lines 1, 8 or 25 from Strossmayerovo náměstí) and explore the Castle area first, then walk down Nerudova to Charles Bridge and then do the Old Town cluster.
+**Tip:** If you'd rather start high and walk downhill, take the tram to Hradčanská (lines 1, 8, 25 or 26 from Strossmayerovo náměstí) and explore the Castle area first, then walk down Nerudova to Charles Bridge and then do the Old Town cluster.
 
 ### Full-day PNT heritage route (~7-8 hours)
  
-The complete pilgrimage for the dedicated science walker. This is an ambitious day – feel free to trim stops according to your interests and stamina. The [National Technical Museum](#tech-museum) and [Letná Park](#letna) are best saved for an after-hours visit from the hotel (see above). **Take tram 17 from Veletržní Palác to Staroměstská (~10 min).**
+The complete pilgrimage for the dedicated science walker. This is an ambitious day – feel free to trim stops according to your interests and stamina. The [National Technical Museum](#tech-museum) and [Letná Park](#letna) are best saved for an after-hours visit from the hotel (see above). **From the hotel, take tram 17 from Veletržní Palác to Staroměstská (~10 min).**
 
 **Tip:** If you plan to visit the Klementinum (stop 3), consider starting the walk there – the guided tour has fixed time slots and limited capacity, and the 9:00 or 9:30 AM slots are half-price. Book online in advance.
 
 1. **[Old Town Square cluster](#old-town)** – Astronomical Clock, Prague Meridian, Fanta Salon plaque, Týn Church / Brahe's tomb (1 hour)
-2. **[Mach plaque and Karolinum](#mach)** – where Doppler presented in 1842 (15 min)
-3. **[Klementinum](#klementinum)** – full guided tour (1 hour including waiting time)
-4. **[Kepler's house, Karlova 4](#kepler-house)** (10 min)
+2. **[Mach plaque and Karolinum](#mach)** – where Mach worked and Doppler presented in 1842 (15 min)
+3. **[Klementinum](#klementinum)** – full guided tour (50 min; book in advance)
+4. **[Kepler's house & fountain](#kepler-house)** (10 min)
 5. **[Charles Bridge](#charles-bridge)** (20 min)
 6. Walk uphill through Malá Strana → Nerudova → Hradčany (the Castle district) (20 min)
 7. **[Prague Castle](#prague-castle)** – Royal Garden and **[Queen Anne's Summer Palace](#belvedere)** (30 min)
@@ -86,7 +86,7 @@ The complete pilgrimage for the dedicated science walker. This is an ambitious d
 <a id="cafe-imperial"></a>
 - **U Zlatého Tygra** (Husova 17) – The authentic Prague pub. Unpasteurised Pilsner Urquell. Opens at 3 PM. Arrive early for a seat. [View on map](https://jan-safar.github.io/prague-pnt-guide/#u-zlateho-tygra)
 - **Café Imperial** (Na Poříčí 15) – Stunning tiled Art Deco interior. Excellent for a celebratory dinner. [View on map](https://jan-safar.github.io/prague-pnt-guide/#cafe-imperial)
-- **Letná Beer Garden** – 10 min from your hotel, under the chestnut trees, with the best sunset view in Prague. The perfect end to a meeting day. [View on map](https://jan-safar.github.io/prague-pnt-guide/#letna)
+- **Letná Beer Garden** – 15 min from your hotel, under the chestnut trees, with the best sunset view in Prague. The perfect end to a meeting day. [View on map](https://jan-safar.github.io/prague-pnt-guide/#letna)
 
 ## The detailed guide
 
