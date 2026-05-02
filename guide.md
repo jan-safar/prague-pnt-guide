@@ -265,7 +265,9 @@ The Royal Garden is **free and open daily 10 AM – 7 PM from April through Octo
 
 This narrow, cobblestoned street is one of Prague's most enchanting corners – a cluster of small, colourful houses with a village-like atmosphere, strikingly quiet compared to the Castle crowds just minutes away. At **No. 1**, a commemorative plaque placed in 1901 marks the house where **Tycho Brahe first lived** when he arrived in Prague in 1600. The house proved too small for his massive instruments, so Rudolf II arranged larger quarters. The building now operates as the *Aparthotel Tycho de Brahe*, offering luxury apartments – you can literally sleep where Tycho slept.
 
-Nový Svět rewards a stroll: look for the only surviving log house with a shingle roof in historic Prague (No. 91/10), architect Santini's former house (No. 79/7), and the tiny Zlatá Hvězda café. The lack of tourist infrastructure makes it feel like discovering Brahe's Prague for the first time.
+<a id="kavarna-novy-svet"></a>
+<a id="u-raka"></a>
+Nový Svět rewards a stroll: look for the baroque house designed by the celebrated architect Santini for his brother (No. 79/7) and [Kavárna Nový Svět](https://jan-safar.github.io/prague-pnt-guide/#kavarna-novy-svet) (No. 87/2), a tiny café marked by a golden star on its facade. At the far end of the street you'll find the only surviving log house with a shingle roof in historic Prague — the charming ['U Raka'](https://jan-safar.github.io/prague-pnt-guide/#u-raka) (Černínská 93/10), also open as a café. The lack of tourist infrastructure makes it feel like discovering Brahe's Prague for the first time.
 
 If walking between the Royal Garden and Nový Svět, consider descending through Jelení příkop (Deer Moat) – a deep, wooded ravine beneath the Castle's northern ramparts, once a royal deer park. It's remarkably quiet and lush, a world away from the crowds above. The path starts at Prašný most (Powder Bridge) and emerges right outside Tycho's house at Nový Svět.
 

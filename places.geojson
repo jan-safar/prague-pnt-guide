@@ -219,6 +219,30 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.390408965545637, 50.091178165194435] },
+      "properties": {
+        "id": "kavarna-novy-svet",
+        "name": "Kavárna Nový Svět",
+        "theme": "Tiny café with golden star on its facade",
+        "description": "Nový Svět 87/2. Family-run café with homemade cakes and garden terrace. Closed Mon.",
+        "visit_type": "eating & drinking",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.389658788594362, 50.09143064416496] },
+      "properties": {
+        "id": "u-raka",
+        "name": "U Raka",
+        "theme": "Prague's only surviving log house with shingle roof",
+        "description": "Černínská 93/10. Romantic café in a timber building at the far end of Nový Svět.",
+        "visit_type": "eating & drinking",
+        "marker-color": "#8e44ad"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [14.387903480618391, 50.088008452433165] },
       "properties": {
         "id": "brahe-kepler",
