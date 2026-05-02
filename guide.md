@@ -267,7 +267,7 @@ This narrow, cobblestoned street is one of Prague's most enchanting corners – 
 
 <a id="kavarna-novy-svet"></a>
 <a id="u-raka"></a>
-Nový Svět rewards a stroll: look for the baroque house designed by the celebrated architect Santini for his brother (No. 79/7) and [Kavárna Nový Svět](https://jan-safar.github.io/prague-pnt-guide/#kavarna-novy-svet) (No. 87/2), a tiny café marked by a golden star on its facade. At the far end of the street you'll find the only surviving log house with a shingle roof in historic Prague — the charming ['U Raka'](https://jan-safar.github.io/prague-pnt-guide/#u-raka) (Černínská 93/10), also open as a café. The lack of tourist infrastructure makes it feel like discovering Brahe's Prague for the first time.
+Nový Svět rewards a stroll: look for the baroque house designed by the celebrated architect Santini for his brother (No. 79/7) and [Kavárna Nový Svět](https://jan-safar.github.io/prague-pnt-guide/#kavarna-novy-svet) (No. 87/2), a tiny café marked by a golden star on its facade. At the far end of the street you'll find the only surviving log house with a shingle roof in historic Prague – the charming ['U Raka'](https://jan-safar.github.io/prague-pnt-guide/#u-raka) (Černínská 93/10), also open as a café. The lack of tourist infrastructure makes it feel like discovering Brahe's Prague for the first time.
 
 If walking between the Royal Garden and Nový Svět, consider descending through Jelení příkop (Deer Moat) – a deep, wooded ravine beneath the Castle's northern ramparts, once a royal deer park. It's remarkably quiet and lush, a world away from the crowds above. The path starts at Prašný most (Powder Bridge) and emerges right outside Tycho's house at Nový Svět.
 
